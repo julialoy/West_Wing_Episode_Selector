@@ -1,0 +1,20 @@
+{
+    "name": "tww-rest",
+    "version": "2.0.0",
+    "main": "tww-controller.mjs",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && eit 1",
+        "start": "nodemon"
+    },
+    "dependencies": {
+        "@testing-library/jest-dom": "^5.16.5",
+        "@testing-library/react": "^13.4.0",
+        "@testing-library/user-event": "^13.5.0",
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "express-async-handler": "^1.2.0",
+        "express-validator": "^6.3.2",
+        "nodemon": "^2.0.20",
+        "zeromq": "^6.0.0-beta.16"
+    }
+}
