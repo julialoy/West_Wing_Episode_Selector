@@ -1,8 +1,9 @@
 import React from 'react';
 
-function Episode({ episode }) {
+function Episode({ selectedEpisode }) {
+    console.log("IN EPISODE: ", selectedEpisode);
     return (
-     <div>{episode.episodeName}</div> ? episode : null
+        <div>{selectedEpisode[0].episodeName}</div>
     );
 }
 

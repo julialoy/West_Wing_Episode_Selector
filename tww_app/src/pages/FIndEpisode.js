@@ -1,11 +1,14 @@
-import React, { useState } from 'react';
-// import Episode from '../components/Episode.js';
+import React from 'react';
+import { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 
-export const FindEpisode = () => {
+export const FindEpisode = ({ setSelectedEpisode }) => {
 
     const [season, setSeason] = useState("0");
     const [episode, setEpisode] = useState(1);
-    const [episodeData, setEpisodeData] = useState([]);
+    // const [episodeData, setEpisodeData] = useState([]);
+
+    const navigate = useNavigate();
 
     const getEpisode = async (e) => {
         e.preventDefault();
@@ -27,11 +30,13 @@ export const FindEpisode = () => {
             return response.json();
         }).then( (data) => {
             console.log("Data received: ", data);
-            setEpisodeData(data);
-            console.log("Episode data in app: ", episodeData);
+            setSelectedEpisode([data]);
+            //console.log("Episode data in app: ", episodeData);
         
         }).catch(err => { console.log(err);  });
+        navigate('/episode');
     }
+
 
     return (
         <div className="container" id="spec-ep-container">
@@ -59,9 +64,6 @@ export const FindEpisode = () => {
                     </div>
                     <button onClick={getEpisode} className="btn btn-dark">Search!</button>
                 </form>
-            </div>
-            <div id="episodeInfo">
-                {/*<Episode episode={episodeData} /> ? episodeData : null*/}
             </div>
         </div>
     );

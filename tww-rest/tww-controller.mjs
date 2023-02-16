@@ -1,13 +1,24 @@
 import express from 'express';
 import cors from 'cors';
 import seriesList from './episode_db.js';
-import 'zeromq';
+// import generateNumbers from './tww-client.js';
+import zmq from 'zeromq';
 
 const PORT = 3218;
 
 const app = express();
 const corsOptions = {
     origin: "http://localhost:3000"
+}
+const generateNumbers = async () => {
+    const clientSock = new zmq.Request();
+    console.log("Connecting to TWW Microservice server...");
+    clientSock.connect('tcp://localhost:5555');
+
+    console.log('Calling the red phone now...');
+    await clientSock.send("What's your favorite episode, Mr. President?");
+    const [receivedData] = await clientSock.receive();
+    return JSON.parse(receivedData);
 }
 
 app.use(cors(corsOptions));
@@ -53,6 +64,35 @@ app.post('/find-episode', (req, res) => {
         // .catch(error => {
         //     res.status(500).setHeader('content-type', 'application/json').json({Error: "Episode not found!"});
         // });
+    }
+});
+
+const successCallback = (result) => {
+    console.log("Received numbers ", result);
+    const targetSeason = parseInt(result.season);
+    const targetEpisode = parseInt(result.episode);
+    console.log("Season ", result.season);
+    console.log("Episode ", result.episode);
+    const data = findEpisode(2, 2);
+    console.log("Episode retrieved ", data);
+    return data;
+}
+
+const failureCallback = (error) => {
+    console.log("No data");
+    return [];
+}
+
+app.get('/find-random-episode', async (req, res) => {
+    console.log("Random episode requested");
+    const data = await generateNumbers().then(successCallback, failureCallback);
+    console.log("Numbers received ", data);
+
+    if (data) {
+        console.log("Received")
+        res.status(200).setHeader('content-type', 'application/json').json(data);
+    } else {
+        res.status(500).setHeader('content-type', 'application/json').json({Error: "Unable to retrieve episode."});
     }
 });
 
