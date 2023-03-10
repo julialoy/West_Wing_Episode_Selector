@@ -10,6 +10,7 @@ const app = express();
 const corsOptions = {
     origin: "http://localhost:3000"
 }
+
 const generateNumbers = async () => {
     const clientSock = new zmq.Request();
     console.log("Connecting to TWW Microservice server...");
@@ -18,6 +19,7 @@ const generateNumbers = async () => {
     console.log('Calling the red phone now...');
     await clientSock.send("What's your favorite episode, Mr. President?");
     const [receivedData] = await clientSock.receive();
+    console.log("Received data ", JSON.parse(receivedData));
     return JSON.parse(receivedData);
 }
 
@@ -48,33 +50,22 @@ const validateNumbers = (season, episode) => {
 const findEpisode = (seas, epi) => {
     let foundSeason = seriesList.seasons.filter( seasonObj => seasonObj.seasonNumber === seas );
     let foundEpisode = foundSeason[0].episodes.filter( epiObj => epiObj.episodeNumber === epi );
-    console.log(foundEpisode);
     return foundEpisode[0];
 }
 
 app.post('/find-episode', (req, res) => {
-    console.log("Episode request received!");
     const targetSeason = parseInt(req.body.season);
     const targetEpisode = parseInt(req.body.episode);
     if (validateNumbers(targetSeason, targetEpisode)) {
         const data = findEpisode(targetSeason, targetEpisode);
-        console.log("DATA: ", data);
         res.status(200).setHeader('content-type', 'application/json').json(data);
-        console.log("Response sent");
-        // .catch(error => {
-        //     res.status(500).setHeader('content-type', 'application/json').json({Error: "Episode not found!"});
-        // });
     }
 });
 
 const successCallback = (result) => {
-    console.log("Received numbers ", result);
     const targetSeason = parseInt(result.season);
     const targetEpisode = parseInt(result.episode);
-    console.log("Season ", result.season);
-    console.log("Episode ", result.episode);
-    const data = findEpisode(2, 2);
-    console.log("Episode retrieved ", data);
+    const data = findEpisode(targetSeason, targetEpisode);
     return data;
 }
 
@@ -84,12 +75,10 @@ const failureCallback = (error) => {
 }
 
 app.get('/find-random-episode', async (req, res) => {
-    console.log("Random episode requested");
+    console.log("Random episode requested...");
     const data = await generateNumbers().then(successCallback, failureCallback);
-    console.log("Numbers received ", data);
 
     if (data) {
-        console.log("Received")
         res.status(200).setHeader('content-type', 'application/json').json(data);
     } else {
         res.status(500).setHeader('content-type', 'application/json').json({Error: "Unable to retrieve episode."});

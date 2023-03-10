@@ -31,7 +31,8 @@
 #home-page-container,
 #about-page-container,
 #spec-ep-container,
-#rand-ep-container {
+#rand-ep-container,
+#ep-info-container {
   margin-top: 5em;
 }
 
@@ -44,6 +45,31 @@
 .nav-link:hover {
   text-decoration: none;
   color: lightskyblue;
+}
+
+.ep-link,
+.ep-link-lead,
+.cast-link {
+  color: blue;
+}
+
+.ep-link {
+  padding-left: 2em;
+}
+
+.ep-link-lead {
+  padding-left: 1em;
+}
+
+.ep-link:hover,
+.ep-link-lead:hover,
+.cast-link:hover {
+  cursor: pointer;
+  color: blueviolet;
+}
+
+.castListing {
+  list-style: none;
 }
 
 /* CSS for changing tooltip background comes from:
