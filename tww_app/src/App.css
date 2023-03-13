@@ -1,35 +1,6 @@
-/* .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-} */
-
 #home-page-container,
 #about-page-container,
+#help-page-container,
 #spec-ep-container,
 #rand-ep-container,
 #ep-info-container {
@@ -68,16 +39,13 @@
   color: blueviolet;
 }
 
-.castListing {
+.castListing,
+.director-element,
+.writer-element,
+.ep-creator-element,
+.guest-element {
   list-style: none;
 }
-
-/* CSS for changing tooltip background comes from:
-https://medium.com/mkdir-awesome/how-to-change-the-bootstrap-5-tooltip-background-and-arrow-color-67e6c5aea510
-*/
-/* .tooltip-inner {
-  background-color: darkgrey;
-} */
 
 @keyframes App-logo-spin {
   from {

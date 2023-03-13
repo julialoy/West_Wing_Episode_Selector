@@ -8218,6 +8218,5223 @@ const seriesList = {
               },
             ]
           },
+          {
+            "episodeNumber": 11,
+            "episodeName": "The Leadership Breakfast",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Scott",
+                "lastName": "Winant"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Paul",
+                "lastName": "Redford",
+                "role": "story"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin",
+                "role": "teleplay"
+              }
+            ],
+            "dateAired": "01-10-2001",
+            "specialGuestStars": [
+              {
+                "firstName": "Felicity",
+                "lastName": "Huffman",
+                "role": "Ann Stark"
+              }
+            ],
+            "guestStars": [
+              {
+                "firstName": "Corbin",
+                "lastName": "Bernsen",
+                "role": "Henry Shallick"
+              },
+              {
+                "firstName": "NiCole",
+                "lastName": "Robinson",
+                "role": "Margaret Hooper"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Melissa",
+                "lastName": "Fitzgerald",
+                "role": "Carol Fitzpatrick"
+              },
+              {
+                "firstName": "William",
+                "lastName": "Duffy",
+                "role": "Staffer Larry"
+              },
+              {
+                "firstName": "Peter James",
+                "lastName": "Smith",
+                "role": "Staffer Ed"
+              },
+              {
+                "firstName": "Kim",
+                "lastName": "Webster",
+                "role": "Ginger"
+              },
+              {
+                "firstName": "Patrick",
+                "lastName": "Falls",
+                "role": "Steward"
+              },
+              {
+                "firstName": "Bruce",
+                "lastName": "Winant",
+                "role": "Henry Hanson"
+              },
+              {
+                "firstName": "Lesley D.",
+                "lastName": "Van Arsdall",
+                "role": "Reporter"
+              },
+              {
+                "firstName": "Dude",
+                "lastName": "Walker",
+                "role": "Simon"
+              },
+              {
+                "firstName": "Charles",
+                "lastName": "Noland",
+                "role": "Steve"
+              },
+              {
+                "firstName": "Thomas J.",
+                "lastName": "McCarthy",
+                "role": "Senator Thomas",
+                "billedAs": "Tom McCarthy"
+              },
+              {
+                "firstName": "Rhonda",
+                "lastName": "Overby",
+                "role": "Reporter"
+              },
+              {
+                "firstName": "Tim",
+                "lastName": "Williams",
+                "role": "Reporter"
+              },
+              {
+                "firstName": "Ivan",
+                "lastName": "Allen",
+                "role": "Newscaster"
+              },
+              {
+                "firstName": "Marc",
+                "lastName": "Goldsmith",
+                "role": "Staff Aide #1"
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Fry",
+                "role": "Staff Aide #2"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Moncrief",
+                "role": "Core Staffer (uncredited)"
+              }
+            ],
+            "producers": [
+              {
+                "firstName": "Patrick",
+                "lastName": "Caddell",
+                "billedAs": "Patrick H. Caddell"
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Julie",
+                "lastName": "Herlocker"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell"
+              },
+              {
+                "firstName": "Peter",
+                "lastName": "Parnell"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "With Congress reconvening, the White House is planning a 'leadership breakfast.' But first, Toby must go over details with the Majority Leader's new Chief of Staff (Felicity Huffman). There are plenty of devils in those details---it seems that the Majority Leader has Presidential ambitions. Meanwhile, Sam wants to move the press corps to new quarters across the street; and Leo, Sam and Donna (in turn) embarrass themselves in front of an influential columnist.",
+            "expandedSummary": "With Congress reconvening, the White House is planning a 'leadership breakfast' to encourage bipartisan cooperation. Toby locks horns in negotiations with the Republican Majority Leader's new chief of staff on minimum wage, against C.J.'s wishes and to a truly disastrous end. Both Sam and Donna try, and fail, to impress an influential newspaper columnist.",
+            "expandedPlot": null,
+            "awards": []
+          },
+          {
+            "episodeNumber": 12,
+            "episodeName": "The Drop-In",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Lou",
+                "lastName": "Antonio"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell, Jr.",
+                "role": "story"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin",
+                "role": "teleplay"
+              }
+            ],
+            "dateAired": "01-24-2001",
+            "specialGuestStars": [
+              {
+                "firstName": "Roger",
+                "lastName": "Rees",
+                "role": "Lord John Marbury"
+              }
+            ],
+            "guestStars": [
+              {
+                "firstName": "David",
+                "lastName": "Graf",
+                "role": "Colonel Chase"
+              },
+              {
+                "firstName": "Kathryn",
+                "lastName": "Joosten",
+                "role": "Dolores Landingham"
+              },
+              {
+                "firstName": "Renee",
+                "lastName": "Estevez",
+                "role": "Nancy"
+              },
+              {
+                "firstName": "NiCole",
+                "lastName": "Robinson",
+                "role": "Margaret Hooper"
+              },
+              {
+                "firstName": "Robert",
+                "lastName": "Clothworthy",
+                "role": "Tom"
+              },
+              {
+                "firstName": "Rocky",
+                "lastName": "Carroll",
+                "role": "Corey Sykes"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Melissa",
+                "lastName": "Fitzgerald",
+                "role": "Carol Fitzpatrick"
+              },
+              {
+                "firstName": "Kim",
+                "lastName": "Webster",
+                "role": "Ginger"
+              },
+              {
+                "firstName": "Devika",
+                "lastName": "Parikh",
+                "role": "Bonnie"
+              },
+              {
+                "firstName": "Thomas B.",
+                "lastName": "Hall",
+                "role": "Officer Mike",
+                "billedAs": "Tom Hall"
+              },
+              {
+                "firstName": "Alberto",
+                "lastName": "Isaac",
+                "role": "Tada Sumatra"
+              },
+              {
+                "firstName": "Erik",
+                "lastName": "Holland",
+                "role": "Peter Hans"
+              },
+              {
+                "firstName": "Jodie",
+                "lastName": "Hanson",
+                "role": "Caprice"
+              },
+              {
+                "firstName": "Kris",
+                "lastName": "Murphy",
+                "role": "Katie Witt"
+              },
+              {
+                "firstName": "Randy",
+                "lastName": "Brooks",
+                "role": "Arthur Leeds",
+                "billedAs": "Randolph Brooks"
+              },
+              {
+                "firstName": "Timoth",
+                "lastName": "Davis-Reed",
+                "role": "Mark O'Donnell"
+              },
+              {
+                "firstName": "Eric",
+                "lastName": "Payne",
+                "role": "Secret Service Agent",
+                "billedAs": "Eric A. Payne"
+              },
+              {
+                "firstName": "Elkin Antoniou",
+                "lastName": "G",
+                "role": "Bartender",
+                "billedAs": "Elkin Antoniou G."
+              },
+              {
+                "firstName": "Eliott",
+                "lastName": "Goretsky",
+                "role": "Staffer"
+              },
+              {
+                "firstName": "Brian",
+                "lastName": "Watt",
+                "role": "Staffer"
+              },
+              {
+                "firstName": "Andrew",
+                "lastName": "DePalma",
+                "role": "Marine---Technical Advisor (uncredited)"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              }
+            ],
+            "producers": [
+              {
+                "firstName": "Patrick",
+                "lastName": "Caddell",
+                "billedAs": "Patrick H. Caddell"
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Julie",
+                "lastName": "Herlocker"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell"
+              },
+              {
+                "firstName": "Peter",
+                "lastName": "Parnell"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "Lord John Marbury (Roger Rees), a friend of the President's (and a royal pain in Leo's neck), is appointed Britain's ambassador to the U.S.; Toby and Sam wrangle over an address the President is to give to an environmental group; Leo tries (with no success) to get the President interested in a missile-defense system; and C.J. is enlisted to ask a controversial comedian (Rocky Carroll) to decline an invitation to perform at a dinner the President is to attend.",
+            "expandedSummary": "Leo tries to convince President Bartlet of the importance of supporting a missile defense plan, while Lord John Marbury is appointed British ambassador to the United States. Toby and Sam clash over a speech the President gives to an environmental group. C.J. tries to talk a comedian out of embarrassing the Bartlet administration.",
+            "expandedPlot": null,
+            "awards": []
+          },
+          {
+            "episodeNumber": 13,
+            "episodeName": "Bartlet's Third State of the Union",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Christopher",
+                "lastName": "Misiano"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Allison",
+                "lastName": "Abner",
+                "role": "story"
+              },
+              {
+                "firstName": "Dee Dee",
+                "lastName": "Myers",
+                "role": "story"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin",
+                "role": "teleplay"
+              }
+            ],
+            "dateAired": "02-07-2001",
+            "specialGuestStars": [
+              {
+                "firstName": "Stockard",
+                "lastName": "Channing",
+                "role": "Abbey Bartlet"
+              },
+              {
+                "firstName": "Emily",
+                "lastName": "Procter",
+                "role": "Ainsley Hayes"
+              },
+              {
+                "firstName": "Marlee",
+                "lastName": "Matlin",
+                "role": "Joey Lucas"
+              }
+            ],
+            "guestStars": [
+              {
+                "firstName": "Corbin",
+                "lastName": "Bernsen",
+                "role": "Henry Shallick"
+              },
+              {
+                "firstName": "Tony",
+                "lastName": "Plana",
+                "role": "Mickey Troop"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Riehle",
+                "role": "Officer Jack Sloan"
+              },
+              {
+                "firstName": "Kathryn",
+                "latName": "Joosten",
+                "role": "Dolores Landingham"
+              },
+              {
+                "firstName": "NiCole",
+                "lastName": "Robinson",
+                "role": "Margaret Hooper"
+              },
+              {
+                "firstName": "Ted",
+                "lastName": "McGinley",
+                "role": "Mark Gottfried"
+              },
+              {
+                "firstName": "Bill",
+                "lastName": "O'Brien",
+                "role": "Kenny Thurman"
+              },
+              {
+                "firstName": "Glenn",
+                "lastName": "Morshower",
+                "role": "Mike Chysler"
+              },
+              {
+                "firstName": "Gregory Alan",
+                "lastName": "Williams",
+                "role": "Robbie Mosley",
+                "billedAs": "Gregalan Williams"
+              },
+              {
+                "firstName": "Barbara Eve",
+                "lastName": "Harris",
+                "role": "Gretchen Tyler"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Melissa",
+                "lastName": "Fitzgerald",
+                "role": "Carol Fitzpatrick"
+              },
+              {
+                "firstName": "Kim",
+                "lastName": "Webster",
+                "role": "Ginger"
+              },
+              {
+                "firstName": "Devika",
+                "lastName": "Parikh",
+                "role": "Bonnie"
+              },
+              {
+                "firstName": "William",
+                "lastName": "Duffy",
+                "role": "Larry"
+              },
+              {
+                "firstName": "Peter James",
+                "lastName": "Smith",
+                "role": "Ed"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Seeger",
+                "role": "Chris"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "James",
+                "role": "Secret Service Agent Donnie"
+              },
+              {
+                "firstName": "J.P.",
+                "lastName": "Stevenson",
+                "role": "Reporter Jonathan"
+              },
+              {
+                "firstName": "Kelly",
+                "lastName": "McNair",
+                "role": "Pollster"
+              },
+              {
+                "firstName": "Jon",
+                "lastName": "Hershfield",
+                "role": "Pollster #2"
+              },
+              {
+                "firstName": "Keith",
+                "lastName": "Mills",
+                "role": "Mr. Finney"
+              },
+              {
+                "firstName": "Sean Patrick",
+                "lastName": "Murphy",
+                "role": "Floor Manager"
+              },
+              {
+                "firstName": "Ralph",
+                "lastName": "Meyering Jr.",
+                "role": "Tom"
+              },
+              {
+                "firstName": "Molly",
+                "lastName": "Schaffer",
+                "role": "Staffer"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Spencer",
+                "role": "Military Aide Thompson"
+              },
+              {
+                "firstName": "Marvin",
+                "lastName": "Krueger",
+                "role": "Officer #2"
+              },
+              {
+                "firstName": "Michael Francis",
+                "lastName": "Clarke",
+                "role": "Congressman Satch"
+              },
+              {
+                "firstName": "Doris E.",
+                "lastName": "McMillon",
+                "role": "Newscaster",
+                "billedAs": "Doris McMillon"
+              },
+              {
+                "firstName": "Larry",
+                "lastName": "Carroll",
+                "role": "Newscaster #2"
+              },
+              {
+                "firstName": "Susan",
+                "lastName": "Krebs",
+                "role": "Gail Schumer"
+              },
+              {
+                "firstName": "Al",
+                "lastName": "Collado",
+                "role": "Reporter (uncredited)"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              }
+            ],
+            "producers": [
+              {
+                "firstName": "Neal",
+                "lastName": "Ahern Jr.",
+                "billedAs": "Neal Ahearn Jr."
+              },
+              {
+                "firstName": "Patrick",
+                "lastName": "Caddell",
+                "billedAs": "Patrick H. Caddell"
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Julie",
+                "lastName": "Herlocker"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell"
+              },
+              {
+                "firstName": "Peter",
+                "lastName": "Parnell"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "It's State of the Union night and West Wing staffers are basking in the address's glow, but Abbey (Stockard Channing) has problems with its tone. Another distraction: guerrillas have captured five DEA agents in Colombia. And it turns out that a cop Bartlet cited in the speech has a controversial incident on his record. Meanwhile, Josh can't get numbers from White House pollster Joey Lucas (Marlee Matlin). And Donna is pestering Josh to ask Joey for a date.",
+            "expandedSummary": "The President addresses the nation, and five DEA agents are taken hostage in Colombia. C.J. discovers an invited guest to the State of the Union speech has a questionable background, while Capital Beat does a three-hour show live from the West Wing. Josh, Joey Lucas (Marlee Matlin), and Donna run an important telephone survey that will influence a gun-control initiative the staff has been planning.",
+            "expandedPlot": null,
+            "awards": []
+          },
+          {
+            "episodeNumber": 14,
+            "episodeName": "The War at Home",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Christopher",
+                "lastName": "Misiano"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "dateAired": "02-14-2001",
+            "specialGuestStars": [
+              {
+                "firstName": "Stockard",
+                "lastName": "Channing",
+                "role": "Abbey Bartlet"
+              },
+              {
+                "firstName": "Emily",
+                "lastName": "Procter",
+                "role": "Ainsley Hayes"
+              },
+              {
+                "firstName": "Marlee",
+                "lastName": "Matlin",
+                "role": "Joey Lucas"
+              }
+            ],
+            "guestStars": [
+              {
+                "firstName": "Tony",
+                "lastName": "Plana",
+                "role": "Mickey Troop"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Riehle",
+                "role": "Officer Jack Sloan"
+              },
+              {
+                "firstName": "Ted",
+                "lastName": "McGinley",
+                "role": "Mark Gottfried"
+              },
+              {
+                "firstName": "Bill",
+                "lastName": "O'Brien",
+                "role": "Kenny Thurman"
+              },
+              {
+                "firstName": "Adam",
+                "lastName": "Alexi-Malle",
+                "role": "President's Translator"
+              },
+              {
+                "firstName": "Kathryn",
+                "latName": "Joosten",
+                "role": "Dolores Landingham"
+              },
+              {
+                "firstName": "Glenn",
+                "lastName": "Morshower",
+                "role": "Mike Chysler"
+              },
+              {
+                "firstName": "Gregory Alan",
+                "lastName": "Williams",
+                "role": "Robbie Mosley",
+                "billedAs": "Gregalan Williams"
+              },
+              {
+                "firstName": "Ed",
+                "lastName": "Begley, Jr.",
+                "role": "Seth Gillette"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Melissa",
+                "lastName": "Fitzgerald",
+                "role": "Carol Fitzpatrick"
+              },
+              {
+                "firstName": "Kim",
+                "lastName": "Webster",
+                "role": "Ginger"
+              },
+              {
+                "firstName": "Devika",
+                "lastName": "Parikh",
+                "role": "Bonnie"
+              },
+              {
+                "firstName": "Sean Patrick",
+                "lastName": "Murphy",
+                "role": "Floor Manager"
+              },
+              {
+                "firstName": "Ralph",
+                "lastName": "Meyering Jr.",
+                "role": "Tom"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Spencer",
+                "role": "Military Aide Thompson"
+              },
+              {
+                "firstName": "Marvin",
+                "lastName": "Krueger",
+                "role": "Officer #2"
+              },
+              {
+                "firstName": "Patrick",
+                "lastName": "Falls",
+                "role": "Billy"
+              },
+              {
+                "firstName": "Emiko",
+                "lastName": "Parise",
+                "role": "Carrie"
+              },
+              {
+                "firstName": "Lee Warren",
+                "lastName": "Jones",
+                "role": "Aide"
+              },
+              {
+                "firstName": "J. Michael",
+                "lastName": "Flynn",
+                "role": "Officer"
+              },
+              {
+                "firstName": "Joe",
+                "lastName": "Bernier",
+                "role": "Secret Service Agent Smith (uncredited)"
+              },
+              {
+                "firstName": "Andrew",
+                "lastName": "DePalma",
+                "role": "Marine---Technical Advisor (uncredited)"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              }
+            ],
+            "producers": [
+              {
+                "firstName": "Neal",
+                "lastName": "Ahern Jr."
+              },
+              {
+                "firstName": "Patrick",
+                "lastName": "Caddell",
+                "billedAs": "Patrick H. Caddell"
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Julie",
+                "lastName": "Herlocker"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell"
+              },
+              {
+                "firstName": "Peter",
+                "lastName": "Parnell"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "The crisis over the missing DEA agents in Colombia intensifies, and the fallout from the State of the Union Address isn't so good, either. For starters, a liberal senator (Ed Begley Jr.) is upset about the speech's Social Security suggestions. It doesn't look like the flap over the brutality accusation against the police officer Bartlet cited in the speech is going to go away quickly. And Joey Lucas's polling numbers are discouraging. (Or are they?) ",
+            "expandedSummary": "The crisis over the missing DEA agents in Colombia intensifies, as well as the fallout from the State of the Union Address.",
+            "expandedPlot": null,
+            "awards": []
+          },
+          {
+            "episodeNumber": 15,
+            "episodeName": "Ellie",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Michael",
+                "lastName": "Engler"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls",
+                "role": "story"
+              },
+              {
+                "firstName": "Laura",
+                "lastName": "Glasser",
+                "role": "story"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin",
+                "role": "teleplay"
+              }
+            ],
+            "dateAired": "02-21-2001",
+            "specialGuestStars": [
+              {
+                "firstName": "Mary Kay",
+                "lastName": "Place",
+                "role": "Surgeon General Millicent Griffith"
+              }
+            ],
+            "guestStars": [
+              {
+                "firstName": "Kathleen",
+                "lastName": "York",
+                "role": "Andrea Wyatt"
+              },
+              {
+                "firstName": "Nina",
+                "lastName": "Siemaszko",
+                "role": "Ellie Bartlet"
+              },
+              {
+                "firstName": "Robert",
+                "lastName": "Knepper",
+                "role": "Morgan Ross"
+              },
+              {
+                "firstName": "Kathryn",
+                "latName": "Joosten",
+                "role": "Dolores Landingham"
+              },
+              {
+                "firstName": "NiCole",
+                "lastName": "Robinson",
+                "role": "Margaret Hooper"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Eiding",
+                "role": "LAbor Lawyer"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Capodice",
+                "role": "Lenny"
+              },
+              {
+                "firstName": "Renée",
+                "lastName": "Estevez",
+                "role": "Nancy"
+              },
+              {
+                "firstName": "Ned",
+                "lastName": "Schmidtke",
+                "role": "Industry Leader #1"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Melissa",
+                "lastName": "Fitzgerald",
+                "role": "Carol Fitzpatrick"
+              },
+              {
+                "firstName": "Kim",
+                "lastName": "Webster",
+                "role": "Ginger"
+              },
+              {
+                "firstName": "Kris",
+                "lastName": "Murphy",
+                "role": "Katie Witt"
+              },
+              {
+                "firstName": "Timothy",
+                "lastName": "Davis-Reed",
+                "role": "Mark O'Donnell"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Seeger",
+                "role": "Chris"
+              },
+              {
+                "firstName": "Greg",
+                "lastName": "Baker",
+                "role": "Interviewer"
+              },
+              {
+                "firstName": "William",
+                "lastName": "Duffy",
+                "role": "Larry"
+              },
+              {
+                "firstName": "Peter James",
+                "lastName": "Smith",
+                "role": "Ed"
+              },
+              {
+                "firstName": "Greg",
+                "lastName": "Wrangler",
+                "role": "Secret Service Agent"
+              },
+              {
+                "firstName": "James",
+                "lastName": "Kiriyama-Lem",
+                "role": "Industry Leader #2"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              }
+            ],
+            "producers": [
+              {
+                "firstName": "Patrick",
+                "lastName": "Caddell",
+                "billedAs": "Patrick H. Caddell"
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Julie",
+                "lastName": "Herlocker"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell"
+              },
+              {
+                "firstName": "Peter",
+                "lastName": "Parnell"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "The President returns from Japan to learn that his Surgeon General (Mary Kay Place) has said some things about marijuana that might prove troublesome. Then his daughter Ellie, a medical student, says something about the controversy to reporter Danny Concannon. Meanwhile, Charlie's choice of a movie for the President to watch proves controversial, too. And Toby tries to enlist his ex-wife, a Congresswoman, in his effort to make peace with liberal Democrats over the Social Security flap.",
+            "expandedSummary": "The President is put in a tricky spot when the Surgeon General makes questionable comments regarding the legalization of marijuana, and his daughter Ellie makes a comment supporting her to Danny Concannon. Toby spars anew with his ex-wife but finds a clever way to work on Social Security reform, and Sam gets tough with a film producer who took a cheap shot at the President.",
+            "expandedPlot": null,
+            "awards": []
+          },
+          {
+            "episodeNumber": 16,
+            "episodeName": "Somebody's Going to Emergency, Somebody's Going to Jail",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Jessica",
+                "lastName": "Yu"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "dateAired": "02-28-2001",
+            "specialGuestStars": [
+              {
+                "firstName": "Roma",
+                "lastName": "Maffia",
+                "role": "Officer Rhonda Sachs"
+              }
+            ],
+            "guestStars": [
+              {
+                "firstName": "Jolie",
+                "lastName": "Jenkins",
+                "role": "Stephanie Gault"
+              },
+              {
+                "firstName": "Anna",
+                "lastName": "Deavere Smith",
+                "role": "Nancy McNally"
+              },
+              {
+                "firstName": "Clark",
+                "lastName": "Gregg",
+                "role": "FBI Special Agent Michael Casper"
+              },
+              {
+                "firstName": "NiCole",
+                "lastName": "Robinson",
+                "role": "Margaret Hooper"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Billingsley",
+                "role": "Dr. John Fallow"
+              },
+              {
+                "firstName": "Jordan",
+                "lastName": "Baker",
+                "role": "Dr. Cynthia Sayles"
+              },
+              {
+                "firstName": "Brent",
+                "lastName": "Hinkley",
+                "role": "Professor Donald Huke"
+              },
+              {
+                "firstName": "Christopher",
+                "lastName": "Neiman",
+                "role": "Staffer"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Kim",
+                "lastName": "Webster",
+                "role": "Ginger"
+              },
+              {
+                "firstName": "Devika",
+                "lastName": "Parikh",
+                "role": "Bonnie"
+              },
+              {
+                "firstName": "William",
+                "lastName": "Duffy",
+                "role": "Larry"
+              },
+              {
+                "firstName": "Peter James",
+                "lastName": "Smith",
+                "role": "Ed"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Stay",
+                "role": "Terry"
+              },
+              {
+                "firstName": "Shana",
+                "lastName": "O'Neil",
+                "role": "Protestor #1"
+              },
+              {
+                "firstName": "Free",
+                "lastName": "Brooks",
+                "role": "Protestor #2"
+              },
+              {
+                "firstName": "Michael Charles",
+                "lastName": "Vaccaro",
+                "role": "Protestor #3"
+              },
+              {
+                "firstName": "Shirley",
+                "lastName": "Jordan",
+                "role": "FBI Receptionist"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Strand",
+                "role": "Cop"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              }
+            ],
+            "producers": [
+              {
+                "firstName": "Patrick",
+                "lastName": "Caddell",
+                "billedAs": "Patrick H. Caddell"
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Julie",
+                "lastName": "Herlocker"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell"
+              },
+              {
+                "firstName": "Peter",
+                "lastName": "Parnell"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "It's 'Big Block of Cheese' Day, which means that Leo sends grumbling staffers to meet with organizations who are not usually heard from at the White House. Toby, for instance, meets with World Bank protesters while C.J.'s assignment is the Cartographers for Social Equality. Meanwhile, a friend of Donna's (Jolie Jenkins) asks Sam to pursue a pardon for her grandfather, a White House staffer in the '40s who was convicted of perjury in a McCarthy-era spy case and died in prison.",
+            "expandedSummary": "The staff participates in 'Big Block of Cheese Day,' Toby is assigned to speak with a group of unruly anarchists protesting the WTO, C.J. meets with The Organization of Cartographers for Social Equality advocating for an inverted Peters projection, and a friend of Donna asks Sam to consider a pardon request for an alleged Cold War spy.",
+            "expandedPlot": null,
+            "awards": []
+          },
+          {
+            "episodeNumber": 17,
+            "episodeName": "The Stackhouse Filibuster",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Bryan",
+                "lastName": "Gordon"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Pete",
+                "lastName": "McCabe",
+                "role": "story"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin",
+                "role": "teleplay"
+              }
+            ],
+            "dateAired": "03-14-2001",
+            "specialGuestStars": [
+              {
+                "firstName": "Tim",
+                "lastName": "Matheson",
+                "role": "Vice President John Hoynes"
+              }
+            ],
+            "guestStars": [
+              {
+                "firstName": "George",
+                "lastName": "Coe",
+                "role": "Senator Howard Stackhouse"
+              },
+              {
+                "firstName": "Cara",
+                "lastName": "DeLizia",
+                "role": "Winifred Hooper"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Melissa",
+                "lastName": "Fitzgerald",
+                "role": "Carol Fitzpatrick"
+              },
+              {
+                "firstName": "Timothy",
+                "lastName": "Davis-Reed",
+                "role": "Mark O'Donnell"
+              },
+              {
+                "firstName": "William",
+                "lastName": "Duffy",
+                "role": "Larry"
+              },
+              {
+                "firstName": "Peter James",
+                "lastName": "Smith",
+                "role": "Ed"
+              },
+              {
+                "firstName": "Randy",
+                "lastName": "Brooks",
+                "role": "Arthur Leeds",
+                "billedAs": "Randolph Brooks"
+              },
+              {
+                "firstName": "Jana Lee",
+                "lastName": "Hamblin",
+                "role": "Reporter Bobbi"
+              },
+              {
+                "firstName": "Robyn",
+                "lastName": "Pedretti",
+                "role": "V.P. Aide #1"
+              },
+              {
+                "firstName": "Darren",
+                "lastName": "Foreman",
+                "role": "V.P. Aide #2"
+              },
+              {
+                "firstName": "Andy",
+                "lastName": "Miller",
+                "role": "V.P. Assistant"
+              },
+              {
+                "firstName": "Larry",
+                "lastName": "Stahoviak",
+                "role": "Staffer"
+              },
+              {
+                "firstName": "Lisa",
+                "lastName": "Croisette",
+                "role": "Staffer #2"
+              },
+              {
+                "firstName": "David O.",
+                "lastName": "Katz",
+                "role": "Staffer #3",
+                "billedAs": "David Katz"
+              },
+              {
+                "firstName": "Jessica",
+                "lastName": "Pennington",
+                "role": "Sally"
+              },
+              {
+                "firstName": "Shishir",
+                "lastName": "Kurup",
+                "role": "Zach"
+              },
+              {
+                "firstName": "Charles",
+                "lastName": "Noland",
+                "role": "Reporter Steve"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Seeger",
+                "role": "Chris"
+              },
+              {
+                "firstName": "Harrison",
+                "lastName": "Young",
+                "role": "Senator Grissom"
+              },
+              {
+                "firstName": "Ron",
+                "lastName": "Harper",
+                "role": "Chairman"
+              },
+              {
+                "firstName": "Dilva",
+                "lastName": "Henry",
+                "role": "News Anchor"
+              },
+              {
+                "firstName": "Agapito",
+                "lastName": "Leal",
+                "role": "Steward",
+                "billedAs": "Pete Leal"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              }
+            ],
+            "producers": [
+              {
+                "firstName": "Patrick",
+                "lastName": "Caddell",
+                "billedAs": "Patrick H. Caddell"
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Julie",
+                "lastName": "Herlocker"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell"
+              },
+              {
+                "firstName": "Peter",
+                "lastName": "Parnell"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "Staffers (most of whom have weekend plans) are blindsided when an elderly senator (George Coe) begins a Friday-night filibuster on a bill they had thought was a done deal. Meanwhile, Toby is puzzled when the Vice President, normally a champion of the oil industry, volunteers to attack it for 'price gouging.' And C.J. fears that the ancient Egyptian cat goddess Bast has cursed her because she accidentally broke a Bast statuette that had been given to the President on a visit to Cairo.",
+            "expandedSummary": "Staffers are blindsided when an elderly Senator begins a Friday night filibuster before a vote on a crucial health care bill, until Donna discovers information that changes their perspective. Meanwhile, Toby is puzzled when the Vice President, normally a champion of the oil industry, volunteers to attack it for 'price gouging,' and Sam is alternately annoyed at and impressed by a feisty GAO intern.",
+            "expandedPlot": null,
+            "awards": []
+          },
+          {
+            "episodeNumber": 18,
+            "episodeName": "17 People",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Alex",
+                "lastName": "Graves"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "dateAired": "04-04-2001",
+            "specialGuestStars": [
+              {
+                "firstName": "Emily",
+                "lastName": "Procter",
+                "role": "Ainsley Hayes"
+              }
+            ],
+            "guestStars": [],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "William",
+                "lastName": "Duffy",
+                "role": "Larry"
+              },
+              {
+                "firstName": "Peter James",
+                "lastName": "Smith",
+                "role": "Ed"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              }
+            ],
+            "producers": [
+              {
+                "firstName": "Patrick",
+                "lastName": "Caddell",
+                "billedAs": "Patrick H. Caddell"
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Julie",
+                "lastName": "Herlocker"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell"
+              },
+              {
+                "firstName": "Peter",
+                "lastName": "Parnell"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "Toby puts two and two together and finds out about the President's \"thing\" (his multiple sclerosis). Then he challenges him on it---forcefully. Also challenging Bartlet is a terrorist threat, and he must decide whether to beef up security at U.S. airports. Meanwhile, staffers struggle to punch up a speech the President is to give at the White House Correspondents Dinner (\"It's not funny,\" Leo sniffs); Josh and Donna bicker over their \"anniversary\"; and Sam and Ainsley bicker over the ERA.",
+            "expandedSummary": "Toby is told about the President's multiple sclerosis, becoming the 17th person to know, and he and the President have a heated row over the matter. Meanwhile, the President considers an extensive security alert for the nation's airports, and staffers struggle to punch up a speech the President is set to give at the White House Correspondents' Dinner.",
+            "expandedPlot": "In the previous episode, entitled \"The Stackhouse Filibuster\", the group learns that Vice President John Hoynes ran an opinion poll on his own favourability after publicly denouncing oil companies, which he had previously been known for being close with. In the beginning of \"17 People\", Toby is shown to be confused by these actions, spending late nights in his office pondering the question while tossing a pink rubber ball at his office wall. Toby eventually comes to the conclusion that Hoynes thinks that President Bartlet is not going to run for re-election, which is true—Bartlet had made a deal with his wife Abbey, restricting him to one term due to his diagnosis of multiple sclerosis that they had kept from the public. Leo McGarry and the President resolve to inform Toby of Bartlet's illness. When Toby is informed, the conversation devolves into a fight in the Oval Office, where Toby excoriates the President for concealing his illness and making irresponsible decisions because of it.\nToby highlights an example from a previous episode, \"He Shall, from Time to Time...\"---a few nights before the President was to give his State of the Union address, he had an \"attack\" that rendered him unconscious while several national security crises were playing out, causing confusion and a lack of clarity in the chain of command. \"For ninety minutes that night, there was a coup d'état in this country,\" concludes Toby. The President responds equally angrily, accusing Toby of arguing in bad faith and only being angry because there were fifteen other people who knew about the President's diagnosis first---his wife, his brother, his three daughters, the six doctors and radiologists who were involved in the initial diagnosis, Leo McGarry, the Vice President, the Chairman of the Joint Chiefs, and the anesthesiologist at George Washington University Hospital who helped operate on the President after he was shot in \"In the Shadow of Two Gunmen.\" Bartlet argues that he had a right to keep his illness private, to which Toby responds that the voters have a right to make an informed decision when electing their leader. Bartlet apologizes to Toby, remarking \"I don't know, it may have been unbelievably stupid.\"\nMeanwhile, Sam Seaborn, Josh Lyman, Donna Moss, and Ainsley Hayes, as well as Ed and Larry, attempt to rewrite a draft of the President's speech at the White House Correspondents Dinner when they learn that the lower-level speechwriters, as Josh put it, \"forgot to bring the funny.\" The characters attempt to write better jokes, but stall out as well. In the midst of this, Sam and Ainsley debate the Equal Rights Amendment, or ERA, after he learns that she is going to Smith College to participate in a panel on the amendment. The two address a number of topics, but Ainsley wins the debate when she argues that she does not need a constitutional amendment to declare her equal to a man, saying that \"I am mortified to discover there's reason to believe that I wasn't before.\" After Ainsley makes her exit to find food, Sam comments that he \"could've responded,\" but that he'd \"already moved on to other things.\"\nMeanwhile, Josh and Donna argue after he buys her a bouquet of flowers, as Donna interprets the flowers as passive aggressive. Josh explains that it was their \"anniversary,\" as Donna began working for him in April. Donna replies that she began working for him in February, but Josh counters that she left him after beginning work in February to go back to her boyfriend, who had dumped her, and only returned in April after the two broke up again. The two spar until Donna reveals that she had broken up with her boyfriend the second time, and not the other way around, because when Donna had gotten into a car accident, the boyfriend stopped on his way to the hospital to meet some friends for a beer. Josh comments that \"if you were in an accident, I wouldn't stop for a beer,\" to which Donna responds \"if you were in an accident, I wouldn't stop for red lights.\" The episode ends with Toby finally joining the others to work on the speech, but he is brooding and distracted due to what he has learned.",
+            "awards": []
+          },
+          {
+            "episodeNumber": 19,
+            "episodeName": "Bad Moon Rising",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Bill",
+                "lastName": "Johnson"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Felicia",
+                "lastName": "Wilson",
+                "role": "story"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin",
+                "role": "teleplay"
+              }
+            ],
+            "dateAired": "04-25-2001",
+            "specialGuestStars": [
+              {
+                "firstName": "Oliver",
+                "lastName": "Platt",
+                "role": "Oliver Babish"
+              },
+              {
+                "firstName": "Emily",
+                "lastName": "Procter",
+                "role": "Ainsley Hayes"
+              }
+            ],
+            "guestStars": [
+              {
+                "firstName": "Jacqueline",
+                "lastName": "Kim",
+                "role": "Lt. Emily Lowenbrau"
+              },
+              {
+                "firstName": "Robert Curtis",
+                "lastName": "Brown",
+                "role": "Jamie Hotchkiss"
+              },
+              {
+                "firstName": "Kathryn",
+                "lastName": "Joosten",
+                "role": "Dolores Landingham"
+              },
+              {
+                "firstName": "NiCole",
+                "lastName": "Robinson",
+                "role": "Margaret Hooper"
+              },
+              {
+                "firstName": "Scott",
+                "lastName": "Lawrence",
+                "role": "Congressional Committee Chair"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Mantell",
+                "role": "Congressional Committee Chair"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Eric",
+                "lastName": "Stonestreet",
+                "role": "Staffer #1"
+              },
+              {
+                "firstName": "Scott",
+                "lastName": "Atkinson",
+                "role": "Staffer #2"
+              },
+              {
+                "firstName": "Jossie",
+                "lastName": "Thacker",
+                "role": "Staffer #3",
+                "billedAs": "Jossie Harris Thacker"
+              },
+              {
+                "firstName": "Melissa",
+                "lastName": "Fitzgerald",
+                "role": "Carol Fitzpatrick"
+              },
+              {
+                "firstName": "Kim",
+                "lastName": "Webster",
+                "role": "Ginger"
+              },
+              {
+                "firstName": "Devika",
+                "lastName": "Parikh",
+                "role": "Bonnie"
+              },
+              {
+                "firstName": "WIlliam",
+                "lastName": "Duffy",
+                "role": "Larry"
+              },
+              {
+                "firstName": "Peter James",
+                "lastName": "Smith",
+                "role": "Ed"
+              },
+              {
+                "firstName": "David",
+                "lastName": "Ackert",
+                "role": "Babish Staffer"
+              },
+              {
+                "firstName": "Trace",
+                "lastName": "Beaulieu",
+                "role": "Cal"
+              },
+              {
+                "firstName": "Charles",
+                "lastName": "Noland",
+                "role": "Reporter Steve"
+              },
+              {
+                "firstName": "Kris",
+                "lastName": "Murphy",
+                "role": "Katie Witt"
+              },
+              {
+                "firstName": "Randy",
+                "lastName": "Brooks",
+                "role": "Arthur Leeds",
+                "billedAs": "Randolph Brooks"
+              },
+              {
+                "firstName": "Timothy",
+                "lastName": "Davis-Reed",
+                "role": "Mark O'Donnell"
+              },
+              {
+                "firstName": "Shishir",
+                "lastName": "Kurup",
+                "role": "Zach"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              },
+            ],
+            "producers": [
+              {
+                "firstName": "Patrick",
+                "lastName": "Caddell",
+                "billedAs": "Patrick H. Caddell"
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Julie",
+                "lastName": "Herlocker"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell"
+              },
+              {
+                "firstName": "Peter",
+                "lastName": "Parnell"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "Bartlet decides that he needs an opinion from White House counsel Oliver Babish on whether his MS deception constituted a criminal conspiracy; an oil spill off the Delaware coast hits home to Sam; Josh heads up a White House team dealing with a Mexican economic crisis (and bickers with Donna about it); and Toby's on the rampage because of a press leak about a possible change in the President's position on school vouchers",
+            "expandedSummary": "The President decides that he needs an opinion from White House Counsel Oliver Babish (Oliver Platt) on whether his MS cover-up constituted a criminal conspiracy. Meanwhile, an oil spill off the Delaware coast hits home to Sam, Josh must deal with a Mexican economic crisis, and C.J. searches for the source of a press leak about a possible change in the President's position on school vouchers.",
+            "expandedPlot": null, 
+            "awards": []
+          },
+          {
+            "episodeNumber": 20,
+            "episodeName": "The Fall's Gonna Kill You",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Christopher",
+                "lastName": "Misiano"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Patrick",
+                "lastName": "Caddell",
+                "role": "story"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin",
+                "role": "teleplay"
+              }
+            ],
+            "dateAired": "05-02-2001",
+            "specialGuestStars": [
+              {
+                "firstName": "Stockard",
+                "lastName": "Channing",
+                "role": "Abbey Bartley"
+              },
+              {
+                "firstName": "Oliver",
+                "lastName": "Platt",
+                "role": "Oliver Babish"
+              },
+              {
+                "firstName": "Marlee",
+                "lastName": "Matlin",
+                "role": "Joey Lucas"
+              }
+            ],
+            "guestStars": [
+              {
+                "firstName": "Lee",
+                "lastName": "Wilkof",
+                "role": "Martin Connelly"
+              },
+              {
+                "firstName": "NiCole",
+                "lastName": "Robinson",
+                "role": "Margaret Hooper"
+              },
+              {
+                "firstName": "Rosalind",
+                "lastName": "Chao",
+                "role": "Jane Gentry"
+              },
+              {
+                "firstName": "Spencer",
+                "lastName": "Garrett",
+                "role": "Richard Will"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Douglas",
+                "lastName": "Roberts",
+                "role": "Congressional Aide #1"
+              },
+              {
+                "firstName": "Lucia",
+                "lastName": "Vincent",
+                "role": "Congressional Aide #3"
+              },
+              {
+                "firstName": "WIlliam",
+                "lastName": "Duffy",
+                "role": "Larry"
+              },
+              {
+                "firstName": "Peter James",
+                "lastName": "Smith",
+                "role": "Ed"
+              },
+              {
+                "firstName": "Jossie",
+                "lastName": "Thacker",
+                "role": "Staffer",
+                "billedAs": "Jossie Harris Thacker"
+              },
+              {
+                "firstName": "Debbie Ann",
+                "lastName": "Thomas",
+                "role": "Speechwriter"
+              },
+              {
+                "firstName": "Barry",
+                "lastName": "Livingston",
+                "role": "Speechwriter #2"
+              },
+              {
+                "firstName": "Emiko",
+                "lastName": "Parise",
+                "role": "Abbey's Aide #1"
+              },
+              {
+                "firstName": "Julie",
+                "lastName": "Koehnen",
+                "role": "Abbey's Aide #2",
+                "billedAs": "Julie A. Koehnen"
+              },
+              {
+                "firstName": "Ariel",
+                "lastName": "Fox",
+                "role": "Bobby"
+              },
+              {
+                "firstName": "Shannon",
+                "lastName": "Nelson",
+                "role": "Staffer #2"
+              },
+              {
+                "firstName": "Jon",
+                "lastName": "Wolfe Nelson",
+                "role": "Dale Bracket"
+              },
+              {
+                "firstName": "Katie",
+                "lastName": "Rimmer",
+                "role": "Waitress"
+              },
+              {
+                "firstName": "Lenore",
+                "lastName": "Foster",
+                "role": "Staffer"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              },
+            ],
+            "producers": [
+              {
+                "firstName": "Patrick",
+                "lastName": "Caddell",
+                "billedAs": "Patrick H. Caddell"
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Julie",
+                "lastName": "Herlocker"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell"
+              },
+              {
+                "firstName": "Peter",
+                "lastName": "Parnell"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "White House counsel Oliver Babish (Oliver Platt) menacingly questions C.J. and Abbey (Stockard Channing) about the President's MS cover-up. And Josh enlists Joey Lucas (Marlee Matlin) to take a hush-hush poll on it. Meanwhile, new estimates project a smaller-than-expected budget surplus---and that cheers staffers; and a Chinese satellite has fallen out of its orbit and is hurtling to earth at 2000 mph, and no one's concerned but Donna (Janel Moloney).",
+            "expandedSummary": "White House Counsel Oliver Babish questions C.J. and Abbey about the President's MS cover-up. The staff begins to develop a strategy to deal with the impending MS crisis. Josh learns of a problem with funding for the government's Big Tobacco lawsuit. Sam works on a speech involving a tax increase and is later told the MS story.",
+            "expandedPlot": null, 
+            "awards": []
+          },
+          {
+            "episodeNumber": 21,
+            "episodeName": "18th and Potomac",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Robert",
+                "lastName": "Berlinger"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell, Jr.",
+                "role": "story"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin",
+                "role": "teleplay"
+              }
+            ],
+            "dateAired": "05-09-2001",
+            "specialGuestStars": [
+              {
+                "firstName": "Stockard",
+                "lastName": "Channing",
+                "role": "Abbey Bartley"
+              },
+              {
+                "firstName": "Oliver",
+                "lastName": "Platt",
+                "role": "Oliver Babish"
+              },
+              {
+                "firstName": "Marlee",
+                "lastName": "Matlin",
+                "role": "Joey Lucas"
+              }
+            ],
+            "guestStars": [
+              {
+                "firstName": "Anna",
+                "lastName": "Deavere Smith",
+                "role": "Nancy McNally"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Rubenstein",
+                "role": "Senator Andy Ritter"
+              },
+              {
+                "firstName": "Peter Michael",
+                "lastName": "Goetz",
+                "role": "Paul HAckett"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "McGonagle",
+                "role": "Senator Warren"
+              },
+              {
+                "firstName": "Robert",
+                "lastName": "Walden",
+                "role": "Senator Rossiter"
+              },
+              {
+                "firstName": "Kathryn",
+                "lastName": "Joosten",
+                "role": "Dolores Landingham"
+              },
+              {
+                "firstName": "NiCole",
+                "lastName": "Robinson",
+                "role": "Margaret Hooper"
+              },
+              {
+                "firstName": "Gregory Alan",
+                "lastName": "Williams",
+                "role": "Robbie Mosley",
+                "billedAs": "Gregalan Williams"
+              },
+              {
+                "firstName": "Victor",
+                "lastName": "McCay",
+                "role": "Peter"
+              },
+              {
+                "firstName": "Glenn",
+                "lastName": "Morshower",
+                "role": "Mike Chysler",
+                "appeared": false
+              },
+              {
+                "firstName": "Bill",
+                "lastName": "O'Brien",
+                "role": "Kenny Thurman"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Melissa",
+                "lastName": "Fitzgerald",
+                "role": "Carol Fitzpatrick"
+              },
+              {
+                "firstName": "Devika",
+                "lastName": "Parikh",
+                "role": "Bonnie"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Spencer",
+                "role": "Military Aide Thompson"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "James",
+                "role": "Secret Service Agent Donnie"
+              },
+              {
+                "firstName": "Ana",
+                "lastName": "Mercedes",
+                "role": "Sally, Military Aide in Sit Room"
+              },
+              {
+                "firstName": "Roger",
+                "lastName": "Ontiveros",
+                "role": "Sidney"
+              },
+              {
+                "firstName": "Kris",
+                "lastName": "Murphy",
+                "role": "Katie Witt"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Seeger",
+                "role": "Chris"
+              },
+              {
+                "firstName": "Timothy",
+                "lastName": "Davis-Reed",
+                "role": "Mark O'Donnell"
+              },
+              {
+                "firstName": "Charles",
+                "lastName": "Noland",
+                "role": "Reporter Steve"
+              },
+              {
+                "firstName": "Wendy",
+                "lastName": "Haines",
+                "role": "Abbey's Agent"
+              },
+              {
+                "firstName": "Eric",
+                "lastName": "Payne",
+                "role": "Secret Service Agent at Door",
+                "billedAs": "Eric A. Payne"
+              },
+              {
+                "firstName": "Gary Carlos",
+                "lastName": "Cervantes",
+                "role": "Dunn (uncredited)"
+              },
+              {
+                "firstName": "Andrew",
+                "lastName": "DePalma",
+                "role": "Marine---Technical Advisor (uncredited)"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              },
+            ],
+            "producers": [
+              {
+                "firstName": "Patrick",
+                "lastName": "Caddell",
+                "billedAs": "Patrick H. Caddell"
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Julie",
+                "lastName": "Herlocker"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell"
+              },
+              {
+                "firstName": "Peter",
+                "lastName": "Parnell"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "With disastrous hypothetical polling numbers from Joey Lucas (Marlee Matlin) in hand, staffers prepare to announce the President's condition. But first, both Sam and Oliver Babish (Oliver Platt) question the First Lady (Stockard Channing) about the matter. Meanwhile, a crisis erupts in Haiti; Josh deals with Democratic senators who are less than enthusiastic about the Government's tobacco-industry suit; and male staffers can't help but give Mrs. Landingham (Kathryn Joosten) car-buying advice.",
+            "expandedSummary": "A crisis in Haiti takes much of the President and Leo's time, while the senior staff are planning the announcement of the President's MS. The democratically elected new Haitian president is facing a military coup and the U.S. finds itself in the middle of the storm when a U.S. diplomat smuggles the new President into the safety of the U.S. Embassy in Port-au-Prince. An evacuation operation turns deadly when U.S. soldiers shoot and kill several rebel Haitians who tried to stop a plane from taking off at the airport. Donna is told by Toby about the President's condition. The staff considers how to deal with the bad news of a poll by Joey Lucas that reveals voters have hugely negative reactions to the possibility of a politician having a potentially fatal disease and covering it up. The President agrees with Leo that he should have a discussion with the staff about whether or not to seek reelection. Josh follows up on his previous week's discovery that a Congressional lawsuit against major tobacco companies is running into funding problems. In a brief conversation with Mrs. Landingham, directly before she goes to collect her first new car, the President says he'd like to have a word with her on her return. It is later revealed that she was killed by a drunk driver.",
+            "expandedPlot": null, 
+            "awards": []
+          },
+          {
+            "episodeNumber": 22,
+            "episodeName": "Two Cathedrals",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Thomas",
+                "lastName": "Schlamme"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "dateAired": "05-16-2001",
+            "specialGuestStars": [
+              {
+                "firstName": "Stockard",
+                "lastName": "Channing",
+                "role": "Abbey Bartley"
+              }
+            ],
+            "guestStars": [
+              {
+                "firstName": "Anna",
+                "lastName": "Deavere Smith",
+                "role": "Nancy McNally"
+              },
+              {
+                "firstName": "Kirsten",
+                "lastName": "Nelson",
+                "role": "Young Mrs. Dolores Landingham"
+              },
+              {
+                "firstName": "Jason",
+                "lastName": "Widener",
+                "role": "Young Jed Bartlet"
+              },
+              {
+                "firstName": "Don",
+                "lastName": "McManus",
+                "role": "Greg Summerhays"
+              },
+              {
+                "firstName": "NiCole",
+                "lastName": "Robinson",
+                "role": "Margaret Hooper"
+              },
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell",
+                "role": "Dr. Bartlet",
+                "billedAs": "Lawrence O'Donnell, Jr."
+              },
+              {
+                "firstName": "Gregory Alan",
+                "lastName": "Williams",
+                "role": "Robbie Mosley",
+                "billedAs": "Gregalan Williams"
+              },
+              {
+                "firstName": "John Bennett",
+                "lastName": "Perry",
+                "role": "Bill Wakefield"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Kathryn",
+                "lastName": "Joosten",
+                "role": "Dolores Landingham"
+              },
+              {
+                "firstName": "Fred",
+                "lastName": "Ornstein",
+                "role": "Congressman Harry Wade"
+              },
+              {
+                "firstName": "Bill",
+                "lastName": "Gratton",
+                "role": "Advisor #1"
+              },
+              {
+                "firstName": "Melissa",
+                "lastName": "Fitzgerald",
+                "role": "Carol Fitzpatrick"
+              },
+              {
+                "firstName": "Devika",
+                "lastName": "Parikh",
+                "role": "Bonnie"
+              },
+              {
+                "firstName": "William",
+                "lastName": "Duffy",
+                "role": "Larry"
+              },
+              {
+                "firstName": "Peter James",
+                "lastName": "Smith",
+                "role": "Ed"
+              },
+              {
+                "firstName": "Kim",
+                "lastName": "Webster",
+                "role": "Ginger"
+              },
+              {
+                "firstName": "Patrick Thomas",
+                "lastName": "O'Brien",
+                "role": "Hanson"
+              },
+              {
+                "firstName": "Christopher",
+                "lastName": "Murray",
+                "role": "Tony Phillips"
+              },
+              {
+                "firstName": "Shelley",
+                "lastName": "Malil",
+                "role": "Renfro"
+              },
+              {
+                "firstName": "Angelo",
+                "lastName": "Tiffe",
+                "role": "Greenway"
+              },
+              {
+                "firstName": "Jane",
+                "lastName": "Lynch",
+                "role": "Reporter in Briefing Room"
+              },
+              {
+                "firstName": "Charles",
+                "lastName": "Noland",
+                "role": "Reporter Steve"
+              },
+              {
+                "firstName": "E.E.",
+                "lastName": "Bell",
+                "role": "Advisor #2"
+              },
+              {
+                "firstName": "Robert A.",
+                "lastName": "Becker",
+                "role": "Minister Monohan"
+              },
+              {
+                "firstName": "Trevor",
+                "lastName": "Eddy",
+                "role": "Young Bartlet's Friend"
+              },
+              {
+                "firstName": "Doris E.",
+                "lastName": "McMillon",
+                "role": "Reporter Sandy",
+                "billedAs": "Doris McMillon"
+              },
+              {
+                "firstName": "Ivan",
+                "lastName": "Allen",
+                "role": "News Anchor Roger Salier"
+              },
+              {
+                "firstName": "Lewis",
+                "lastName": "Grenville",
+                "role": "Reporter"
+              },
+              {
+                "firstName": "Wendy",
+                "lastName": "Poole",
+                "role": "Staffer"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Ahl",
+                "role": "Air Force Major General (uncredited)"
+              },
+              {
+                "firstName": "Chelsea",
+                "lastName": "Bond",
+                "role": "Reporter (uncredited)"
+              },
+              {
+                "firstName": "Brian",
+                "lastName": "Dragonuk",
+                "role": "Mourner at Cathedral (uncredited)"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              },
+              {
+                "firstName": "Christopher J.",
+                "lastName": "Marcinko",
+                "role": "Third Reporter (uncredited)"
+              },
+              {
+                "firstName": "Andrellos",
+                "lastName": "Mitchell",
+                "role": "Funeral Mourner (uncredited)"
+              },
+            ],
+            "producers": [
+              {
+                "firstName": "Patrick",
+                "lastName": "Caddell",
+                "billedAs": "Patrick H. Caddell"
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Julie",
+                "lastName": "Herlocker"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Lawrence",
+                "lastName": "O'Donnell"
+              },
+              {
+                "firstName": "Peter",
+                "lastName": "Parnell"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "The Administration prepares for the storm of its life. Indeed, a tropical storm is bearing down on Washington on the day the President is to disclose that he has MS and has been lying about it for eight years. Bartlet is distracted by Mrs. Landingham's death, but staffers are all business as they deal with Congressional Democrats, party officials and network execs. And they must fashion answers to likely press-conference questions. The one that concerns them most: Will Bartlet seek reelection?",
+            "expandedSummary": "A tropical storm is bearing down on Washington on the day the President is to disclose to the American people that he has MS. The President attends Mrs. Landingham's funeral, beset with memories of how they met. Staffers must also fashion two responses to the question that is certain to be asked first at Bartlet's prime-time press conference: Will the President seek re-election?",
+            "expandedPlot": "Leo McGarry (John Spencer) is talking to two Democrats who are convinced that the White House's cover-up of President Bartlet's multiple sclerosis will be a significant obstacle for Democrats in the House seeking re-election. They ask whether the President will seek re-election, but Leo only says that there will be a press conference that night, and that they should watch.\nToby Ziegler (Richard Schiff) is preparing the Mural Room for the President's statement when Sam Seaborn (Rob Lowe) asks if the President is ready, so soon after Mrs. Landingham's death in a car accident at the end of \"18th and Potoma\". Toby tells him that they have no choice and despite her funeral, they will be proceeding with the plan to publicly address Bartlet's MS. Toby is offered a 'lifeboat' by way of a job offer, but turns it down in a show of loyalty to the President. C. J. Cregg (Allison Janney) gathers reporters from several news agencies in her office to 'leak' information about the President's disease. Josh Lyman (Bradley Whitford) gives her a brief for a press briefing about an ongoing tobacco lawsuit, but she tells him that with the story the President is about to reveal, even news about an ongoing diplomatic situation in Haiti will be ignored by the press.\nThroughout the day, Bartlet revisits his early memories of Mrs. Landingham (Kirsten Nelson) when she was a secretary at the school where he studied and where his father was headmaster. In one flashback sequence, she pushes a young Bartlet (Jason Widener) to challenge his father about pay inequality between women and men working at the school. Mrs. Landingham clearly sees something in Jed, \"a boy king ... blessed with inspiration.\" She comments that if Bartlet won't say anything because he's afraid or can't be bothered, then she doesn't even want to know him. He then puts his hands in his pockets, looks away, and smiles, which Mrs. Landingham understands to mean that he has decided to act, and will talk to his father.\nBartlet and his staff attend Mrs. Landingham's funeral at the National Cathedral. Afterward, a grief-stricken Bartlet remains alone in the Cathedral, railing at God in both Latin, and English. He then lights a cigarette, drops it on the cathedral floor, and grinds it under his foot before angrily declaring that he will not run again: \"You get Hoynes!\" Later, in the Oval Office, as a pre-season tropical storm rages outside, Bartlet has a vision of Mrs. Landingham (Kathryn Joosten), who tells him that if he isn't going to run because he thinks he won't win or because it will be too hard, she doesn't even want to know him.\nBartlet and his entourage then travel to the State Department to give a press conference on the disclosure of his MS. Shots of the motorcade driving in the rain are intercut with shots in the cathedral, where a janitor finds the extinguished cigarette. Beginning the press conference, Bartlet disregards advice to first call upon a handpicked reporter who will not ask about re-election, choosing instead one who immediately asks if he will seek a second term as President. Bartlet puts his hands in his pockets, looks away, and smiles, indicating his intention to seek re-election.", 
+            "awards": [
+              {
+                "awardName": "Directors Guild of America: Outstanding Directing---Drama Series",
+                "recipients": [
+                  {
+                    "firstName": "Thomas",
+                    "lastName": "Schlamme"
+                  }
+                ],
+                "won": false
+              },
+              {
+                "awardName": "Writers Guild of America: Best Episodic Drama",
+                "recipients": [
+                  {
+                    "firstName": "Aaron",
+                    "lastName": "Sorkin"
+                  }
+                ],
+                "won": false
+              },
+              {
+                "awardName": "Emmy: Outstanding Lead Actor in a Drama Series",
+                "recipients": [
+                  {
+                    "firstName": "Martin",
+                    "lastName": "Sheen"
+                  }
+                ],
+                "won": false
+              },
+              {
+                "awardName": "Emmy: Outstanding Single-Camera Picture Editing for a Series",
+                "recipients": [
+                  {
+                    "firstName": "Bill",
+                    "lastName": "Johnson"
+                  }
+                ],
+                "won": true
+              },
+              {
+                "awardName": "Banff Rockie Award: Continuing Series Episode",
+                "recipients": [],
+                "won": false
+              },
+              {
+                "awardName": "Humanitas Prize: 60-Minute",
+                "recipients": [
+                  {
+                    "firstName": "Aaron",
+                    "lastName": "Sorkin"
+                  }
+                ],
+                "won": true
+              }
+            ]
+          },
+        ]
+      },
+      {
+        "seasonNumber": 3,
+        "yearsAired": "2001-2002",
+        "numberEpisodes": 23,
+        "awards": [
+          {
+            "awardName": "Emmy: Outstanding Drama Series",
+            "recipients": [],
+            "won": true
+          },
+          {
+            "awardName": "Emmy: Outstanding Lead Actress in a Drama Series",
+            "recipients": [
+              {
+                "firstName": "Allison",
+                "lastName": "Janney"
+              }
+            ],
+            "won": true
+          },
+          {
+            "awardName": "Emmy: Outstanding Supporting Actor in a Drama Series",
+            "recipients": [
+              {
+                "firstName": "John",
+                "lastName": "Spencer"
+              }
+            ],
+            "won": true
+          },
+          {
+            "awardName": "Emmy: Outstanding Supporting Actress in a Drama Series",
+            "recipients": [
+              {
+                "firstName": "Stockard",
+                "lastName": "Channing"
+              }
+            ],
+            "won": true
+          },
+          {
+            "awardName": "Emmy: Outstanding Lead Actor in a Drama Series",
+            "recipients": [
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen"
+              }
+            ],
+            "won": false
+          },
+          {
+            "awardName": "Emmy: Outstanding Supporting Actor in a Drama Series",
+            "recipients": [
+              {
+                "firstName": "Dule",
+                "lastName": "Hill"
+              }
+            ],
+            "won": false
+          },
+          {
+            "awardName": "Emmy: Outstanding Supporting Actor in a Drama Series",
+            "recipients": [
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff"
+              }
+            ],
+            "won": false
+          },
+          {
+            "awardName": "Emmy: Outstanding Supporting Actor in a Drama Series",
+            "recipients": [
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford"
+              }
+            ],
+            "won": false
+          },
+          {
+            "awardName": "Emmy: Outstanding Supporting Actress in a Drama Series",
+            "recipients": [
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney"
+              }
+            ],
+            "won": false
+          },
+          {
+            "awardName": "Emmy: Outstanding Supporting Actress in a Drama Series",
+            "recipients": [
+              {
+                "firstName": "Mary-Louise",
+                "lastName": "Parker"
+              }
+            ],
+            "won": false
+          },
+          {
+            "awardName": "Emmy: Outstanding Guest Actor in a Drama Series",
+            "recipients": [
+              {
+                "firstName": "Mark",
+                "lastName": "Harmon"
+              }
+            ],
+            "won": false
+          },
+          {
+            "awardName": "Emmy: Outstanding Guest Actor in a Drama Series",
+            "recipients": [
+              {
+                "firstName": "Tim",
+                "lastName": "Matheson"
+              }
+            ],
+            "won": false
+          },
+          {
+            "awardName": "Emmy: Outstanding Guest Actor in a Drama Series",
+            "recipients": [
+              {
+                "firstName": "Ron",
+                "lastName": "Silver"
+              }
+            ],
+            "won": false
+          },
+          {
+            "awardName": "Emmy: Outstanding Directing for a Drama Series",
+            "recipients": [
+              {
+                "firstName": "Paris",
+                "lastName": "Barclay"
+              },
+              {
+                "firstName": "Alex",
+                "lastName": "Graves"
+              }
+            ],
+            "won": false
+          },
+          {
+            "awardName": "Emmy: Outstanding Writing for a Drama Series",
+            "recipients": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "won": false
+          },
+          {
+            "awardName": "American Society of Cinematography",
+            "recipients": [
+              {
+                "firstName": "Thomas",
+                "lastName": "Del Ruth"
+              }
+            ],
+            "won": true
+          },
+        ],
+        "episodes": [
+          {
+            "episodeNumber": 0,
+            "episodeName": "Isaac and Ishmael",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Christopher",
+                "lastName": "Misiano"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "dateAired": "10-03-2000",
+            "specialGuestStars": [
+              {
+                "firstName": "Ajay",
+                "lastName": "Naidu",
+                "role": "Rakim Ali"
+              },
+            ],
+            "guestStars": [
+              {
+                "firstName": "Michael",
+                "lastName": "O'Neill",
+                "role": "Secret Service Agent Ron Butterfield"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Stockard",
+                "lastName": "Channing",
+                "role": "Abbey Bartlet"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Jonathan",
+                "lastName": "Nichols-Navarro",
+                "role": "Agent Cleary",
+                "billedAs": "Jonathan Nichols"
+              },
+              {
+                "firstName": "Jeanette",
+                "lastName": "Brox",
+                "role": "Student"
+              },
+              {
+                "firstName": "Cyd",
+                "lastName": "Strittmatter",
+                "role": "Joan"
+              },
+              {
+                "firstName": "Frantz",
+                "lastName": "Turner",
+                "role": "Agent Greg"
+              },
+              {
+                "firstName": "Susie",
+                "lastName": "Geiser",
+                "role": "Marjorie Mann"
+              },
+              {
+                "firstName": "Mongo",
+                "lastName": "Brownlee",
+                "role": "Secret Service Agent"
+              },
+              {
+                "firstName": "Josh",
+                "lastName": "Zuckerman",
+                "role": "Boy #1---Billy Fernandez"
+              },
+              {
+                "firstName": "Ben",
+                "lastName": "Donovan",
+                "role": "Boy #2"
+              },
+              {
+                "firstName": "MArcus",
+                "lastName": "Toji",
+                "role": "Boy #3"
+              },
+              {
+                "firstName": "Arjay",
+                "lastName": "Smith",
+                "role": "Boy #4"
+              },
+              {
+                "firstName": "Kristine",
+                "lastName": "Woo",
+                "role": "Girl #1"
+              },
+              {
+                "firstName": "Chastity",
+                "lastName": "Dotson",
+                "role": "Girl #4"
+              },
+              {
+                "firstName": "Dan",
+                "lastName": "Horton",
+                "role": "Agent #1"
+              },
+              {
+                "firstName": "Willie",
+                "lastName": "Gault",
+                "role": "Agent #2"
+              },
+              {
+                "firstName": "William James",
+                "lastName": "Jones",
+                "role": "FBI Agent",
+                "billedAs": "William J. Jones"
+              },
+              {
+                "firstName": "Ashlee",
+                "lastName": "Levitch",
+                "role": "(uncredited)"
+              },
+              {
+                "firstName": "Mike J",
+                "lastName": "Daugherity",
+                "role": "FBI Agent (uncredited)"
+              },
+              {
+                "firstName": "Andrew",
+                "lastName": "DePalma",
+                "role": "Marine---Technical Advisor (uncredited)"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Longo",
+                "role": "Secret Service (uncredited)"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Moncrief",
+                "role": "Core Staffer (uncredited; unconfirmed)"
+              },
+              {
+                "firstName": "Blake",
+                "lastName": "Van Leer",
+                "role": "President's Aide (uncredited)"
+              },
+              {
+                "firstName": "Cynthia",
+                "lastName": "Windham",
+                "role": "Agent Coffey (uncredited)"
+              },
+            ],
+            "producers": [
+              {
+                "firstName": "Neal",
+                "lastName": "Ahern Jr."
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Alex",
+                "lastName": "Graves"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Christopher",
+                "lastName": "Misiano"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "Patrick",
+                "lastName": "Ward"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "As Josh reluctantly begins addressing a group of high-school high achievers the White House goes into a lockdown. No one can leave and the kids have questions. \"So what bothers them about us?\" asks one, assuming that Arab terrorism is the reason for the lockdown. Meanwhile, an Arab-American junior staffer (Ajay Naidu) is arrested---in his office---on suspicion of being involved with a terrorist plot.",
+            "expandedSummary": "Prior to the episode, the show's actors directly address the audience; they state that the episode is a \"play\" outside the show's normal continuity and provide donation hotlines for victims of the September 11 attacks.\nThe White House is placed into lockdown (referred to as a \"crash\") after a staffer, Rakim Ali, is found to share a name with the alias of a suspected terrorist. A group of high schoolers, touring the White House as part of Presidential Classroom, are stuck in the cafeteria; Deputy Chief of Staff Josh Lyman and other staffers entertain the group with a discussion on the causes of Islamist terrorism. At the same time, Chief of Staff Leo McGarry argues with Ali during the latter's interrogation. Eventually, the suspected terrorist is found in Germany and the lockdown is lifted, prompting McGarry to apologize to the staffer.",
+            "expandedPlot": null,
+            "awards": []
+          },
+          {
+            "episodeNumber": 1,
+            "episodeName": "Manchester Part 1",
+            "twoPart": true,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Thomas",
+                "lastName": "Schlamme"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "dateAired": "10-10-2000",
+            "specialGuestStars": [
+              {
+                "firstName": "Oliver",
+                "lastName": "Platt",
+                "role": "Oliver Babish"
+              },
+              {
+                "firstName": "Ron",
+                "lastName": "Silver",
+                "role": "Bruno Gianelli"
+              },
+              {
+                "firstName": "Marlee",
+                "lastName": "Matlin",
+                "role": "Joey Lucas"
+              }
+            ],
+            "guestStars": [
+              {
+                "firstName": "Anna",
+                "lastName": "Deavere Smith",
+                "role": "Nancy McNally"
+              },
+              {
+                "firstName": "Evan",
+                "lastName": "Handler",
+                "role": "Douglas Wegland"
+              },
+              {
+                "firstName": "Connie",
+                "lastName": "Britton",
+                "role": "Connie Tate"
+              },
+              {
+                "firstName": "NiCole",
+                "lastName": "Robinson",
+                "role": "Margaret Hooper"
+              },
+              {
+                "firstName": "Renée",
+                "lastName": "Estevez",
+                "role": "Nancy"
+              },
+              {
+                "firstName": "Bill",
+                "lastName": "O'Brien",
+                "role": "Kenny Thurman"
+              },
+              {
+                "firstName": "Victor",
+                "lastName": "McCay",
+                "role": "Henry"
+              },
+              {
+                "firstName": "Jim",
+                "lastName": "Beaver",
+                "role": "Carl"
+              },
+              {
+                "firstName": "Earl",
+                "lastName": "Boen",
+                "role": "Paulson"
+              },
+              {
+                "firstName": "Glenn",
+                "lastName": "Morshower",
+                "role": "Mike Chysler"
+              },
+              {
+                "firstName": "Dennis",
+                "lastName": "Cockrum",
+                "role": "Officer"
+              },
+              {
+                "firstName": "Gregory Alan",
+                "lastName": "Williams",
+                "role": "Robbie Mosley",
+                "billedAs": "Gregalan Williams"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Stockard",
+                "lastName": "Channing",
+                "role": "Abbey Bartlet"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Kim",
+                "lastName": "Webster",
+                "role": "Ginger"
+              },
+              {
+                "firstName": "Peter James",
+                "lastName": "Smith",
+                "role": "Ed"
+              },
+              {
+                "firstName": "William",
+                "lastName": "Duffy",
+                "role": "Larry"
+              },
+              {
+                "firstName": "Ivan",
+                "lastName": "Allen",
+                "role": "News Anchor Roger Salier"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Seeger",
+                "role": "Chris"
+              },
+              {
+                "firstName": "Charles",
+                "lastName": "Noland",
+                "role": "Reporter Steve"
+              },
+              {
+                "firstName": "Kris",
+                "lastName": "Murphy",
+                "role": "Katie Witt"
+              },
+              {
+                "firstName": "Timothy",
+                "lastName": "Davis-Reed",
+                "role": "Mark O'Donnell"
+              },
+              {
+                "firstName": "Doris E.",
+                "lastName": "McMillon",
+                "role": "Reporter Sandy",
+                "billedAs": "Doris McMillon"
+              },
+              {
+                "firstName": "Dayna",
+                "lastName": "Devon",
+                "role": "A.F. 1 Reporter #1"
+              },
+              {
+                "firstName": "J.P.",
+                "lastName": "Stevenson",
+                "role": "A.F. 1 Reporter #2"
+              },
+              {
+                "firstName": "Lois",
+                "lastName": "Foraker",
+                "role": "Bartender"
+              },
+              {
+                "firstName": "Jill",
+                "lastName": "Remez",
+                "role": "Reporter #4"
+              },
+              {
+                "firstName": "Randy",
+                "lastName": "Brooks",
+                "role": "Arthur Leeds",
+                "billedAs": "Randolph Brooks"
+              },
+              {
+                "firstName": "Kirk",
+                "lastName": "Kinder",
+                "role": "One Star General"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Emmanuel",
+                "role": "Agent"
+              },
+              {
+                "firstName": "Mark",
+                "lastName": "Henderson",
+                "role": "Driver"
+              },
+              {
+                "firstName": "Brian",
+                "lastName": "Dragonuk",
+                "role": "Motel Guest (uncredited)"
+              },
+              {
+                "firstName": "Melissa",
+                "lastName": "Fitzgerald",
+                "role": "Carol Fitzpatrick (uncredited)"
+              },
+              {
+                "firstName": "Aaron Michael",
+                "lastName": "Lacey",
+                "role": "New Hampshire State Trooper (uncredited)"
+              }
+            ],
+            "producers": [
+              {
+                "firstName": "Neal",
+                "lastName": "Ahern Jr."
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Alex",
+                "lastName": "Graves"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Christopher",
+                "lastName": "Misiano"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "Patrick",
+                "lastName": "Ward"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "Part 1 of 2. President Bartlet wastes no time making his reelection intentions clear (not surprisingly, it's the first question at the press conference that follows his MS disclosure). But everyone knows that his predicament will make the campaign no piece of cake. Adding to Bartlet's problems is Abbey's reaction to his decision, not to mention Haiti's obstreperous dictator. Meanwhile, the White House press corps is making life particularly miserable for C.J.",
+            "expandedSummary": "Surprising everyone, President Bartlet announces his intentions to run for re-election, angering Abbey. Meanwhile, Haiti's obstreperous dictator is giving National Security Advisor Nancy McNally problems. The staff scrambles to work the news cycle in their favor in the wake of the President's announcement. C.J. makes a critical error in a statement to the press. The staffers then clash with newly hired political operative Bruno Gianelli and his aides Connie and Doug. Josh is upset because Leo will not let him \"wave off the FDA\" on RU-486. C.J. contemplates her future at the White House. President Bartlet makes it clear he values both Bruno's team and his senior staff and gets them focused on running a successful re-election campaign as allies rather than adversaries.",
+            "expandedPlot": "The episode picks up at the press conference immediately where last season's cliff-hanger (Two Cathedrals) left off, and what was then only implicit is here made clear: President Bartlet is running for a second term. When asked if he plans to seek re-election, he answers \"Yeah, and I'm gonna win.\" From that point on the story develops in dual storylines, one following immediately upon the press conference, the other taking place four weeks later, as the staff is preparing for the official campaign announcement in Manchester, New Hampshire.\nLeo decides to bring in Bruno Gianelli (Silver), a highly accomplished political consultant, to help with the re-election campaign, but conflict soon arises between Gianelli's and Bartlet's respective staffs. The conflict is particularly intense between the idealistic Communications Director Toby and the more pragmatic Doug Wegland (Handler). A problem appears when it becomes clear that RU-486---an emergency contraception---will receive government approval on the same day as the announcement ceremony. This will not only take attention away from the event, but also give political ammunition to the Right, and raise questions about the professionalism of the campaign. Josh strongly wants to \"wave off the FDA\" on the release, and it later appears that his underlying motive for this is to rectify a previous mistake. In the early part of the story, he applied pressure to pass a bill on anti-tobacco measures, but Gianelli points out the error in passing a bill that could have given them political leverage against the Republicans in the upcoming election.\nIn the ongoing conflict in Haiti, a rescue mission is staged to save American citizens. Bartlet decides to send in peacekeeping troops, in spite of political consequences. CJ then, when announcing the decision to the press, makes a grave mistake by saying that she thinks \"the president's relieved to be focusing on something that matters,\" implying both that the MS incident was unimportant and that the President was happy to use an incident in which American lives are at risk to deflect attention away from his illness. Leo responds by sitting her out for the next press briefing, and she reacts by offering her resignation. Yet she is eventually persuaded to stay by the president's heartfelt assurance that he considers her a vital member of the administration.\nBartlet's wife Abbey is not pleased with the president making his bid for re-election without consulting her. Later on she still decides to join him in Manchester. She tells him that he needs to reach out to his staff, some of whom believe that he should make a public apology for concealing his MS. In the end he makes the apology, not publicly, but privately to his nearest advisors. He assures them that, even though Gianelli's help is much needed, they will still run a campaign that does not shrink from handling controversial issues. In a final speech he tells them that \"We're gonna write a new book. Right here. Right now.\"",
+            "awards": [
+              {
+                "awardName": "SHINE Awards: Series Storyline",
+                "recipients": [],
+                "won": false
+              }
+            ]
+          },
+          {
+            "episodeNumber": 2,
+            "episodeName": "Manchester Part 2",
+            "twoPart": true,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Thomas",
+                "lastName": "Schlamme"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "dateAired": "10-17-2000",
+            "specialGuestStars": [
+              {
+                "firstName": "Ron",
+                "lastName": "Silver",
+                "role": "Bruno Gianelli"
+              },
+              {
+                "firstName": "Marlee",
+                "lastName": "Matlin",
+                "role": "Joey Lucas"
+              }
+            ],
+            "guestStars": [
+              {
+                "firstName": "Anna",
+                "lastName": "Deavere Smith",
+                "role": "Nancy McNally"
+              },
+              {
+                "firstName": "Evan",
+                "lastName": "Handler",
+                "role": "Douglas Wegland"
+              },
+              {
+                "firstName": "Connie",
+                "lastName": "Britton",
+                "role": "Connie Tate"
+              },
+              {
+                "firstName": "NiCole",
+                "lastName": "Robinson",
+                "role": "Margaret Hooper"
+              },
+              {
+                "firstName": "Bill",
+                "lastName": "O'Brien",
+                "role": "Kenny Thurman"
+              },
+              {
+                "firstName": "Glenn",
+                "lastName": "Morshower",
+                "role": "Mike Chysler"
+              },
+              {
+                "firstName": "Victor",
+                "lastName": "McCay",
+                "role": "Peter"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Stockard",
+                "lastName": "Channing",
+                "role": "Abbey Bartlet"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Peter James",
+                "lastName": "Smith",
+                "role": "Ed"
+              },
+              {
+                "firstName": "William",
+                "lastName": "Duffy",
+                "role": "Larry"
+              },
+              {
+                "firstName": "Kris",
+                "lastName": "Arnold",
+                "role": "Staffer"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Emmanual",
+                "role": "Agent"
+              },
+              {
+                "firstName": "Andrew",
+                "lastName": "DePalma",
+                "role": "Marine---Technical Advisor (uncredited)"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              },
+            ],
+            "producers": [
+              {
+                "firstName": "Neal",
+                "lastName": "Ahern Jr."
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Alex",
+                "lastName": "Graves"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Christopher",
+                "lastName": "Misiano"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "Patrick",
+                "lastName": "Ward"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "Part 2 of 2. Nobody's in a good mood in this conclusion to a two-parter. For starters, senior staffers are clashing with newly hired political operative Bruno (Ron Silver), and his aides Connie and Doug (Connie Britton, Evan Handler). Josh is upset because Leo won't let him \"wave off the FDA\" on RU-486. And C.J.'s concerned because the press senses that there might be a problem with the Bartlets' marriage. But at least there's good news from Haiti.",
+            "expandedSummary": "Surprising everyone, President Bartlet announces his intentions to run for re-election, angering Abbey. Meanwhile, Haiti's obstreperous dictator is giving National Security Advisor Nancy McNally problems. The staff scrambles to work the news cycle in their favor in the wake of the President's announcement. C.J. makes a critical error in a statement to the press. The staffers then clash with newly hired political operative Bruno Gianelli and his aides Connie and Doug. Josh is upset because Leo will not let him \"wave off the FDA\" on RU-486. C.J. contemplates her future at the White House. President Bartlet makes it clear he values both Bruno's team and his senior staff and gets them focused on running a successful re-election campaign as allies rather than adversaries.",
+            "expandedPlot": "The episode picks up at the press conference immediately where last season's cliff-hanger (Two Cathedrals) left off, and what was then only implicit is here made clear: President Bartlet is running for a second term. When asked if he plans to seek re-election, he answers \"Yeah, and I'm gonna win.\" From that point on the story develops in dual storylines, one following immediately upon the press conference, the other taking place four weeks later, as the staff is preparing for the official campaign announcement in Manchester, New Hampshire.\nLeo decides to bring in Bruno Gianelli (Silver), a highly accomplished political consultant, to help with the re-election campaign, but conflict soon arises between Gianelli's and Bartlet's respective staffs. The conflict is particularly intense between the idealistic Communications Director Toby and the more pragmatic Doug Wegland (Handler). A problem appears when it becomes clear that RU-486---an emergency contraception---will receive government approval on the same day as the announcement ceremony. This will not only take attention away from the event, but also give political ammunition to the Right, and raise questions about the professionalism of the campaign. Josh strongly wants to \"wave off the FDA\" on the release, and it later appears that his underlying motive for this is to rectify a previous mistake. In the early part of the story, he applied pressure to pass a bill on anti-tobacco measures, but Gianelli points out the error in passing a bill that could have given them political leverage against the Republicans in the upcoming election.\nIn the ongoing conflict in Haiti, a rescue mission is staged to save American citizens. Bartlet decides to send in peacekeeping troops, in spite of political consequences. CJ then, when announcing the decision to the press, makes a grave mistake by saying that she thinks \"the president's relieved to be focusing on something that matters,\" implying both that the MS incident was unimportant and that the President was happy to use an incident in which American lives are at risk to deflect attention away from his illness. Leo responds by sitting her out for the next press briefing, and she reacts by offering her resignation. Yet she is eventually persuaded to stay by the president's heartfelt assurance that he considers her a vital member of the administration.\nBartlet's wife Abbey is not pleased with the president making his bid for re-election without consulting her. Later on she still decides to join him in Manchester. She tells him that he needs to reach out to his staff, some of whom believe that he should make a public apology for concealing his MS. In the end he makes the apology, not publicly, but privately to his nearest advisors. He assures them that, even though Gianelli's help is much needed, they will still run a campaign that does not shrink from handling controversial issues. In a final speech he tells them that \"We're gonna write a new book. Right here. Right now.\"",
+            "awards": [
+              {
+                "awardName": "Emmy: Outstanding Art Direction for a Single-Camera Series",
+                "recipients": [],
+                "won": false
+              },
+              {
+                "awardName": "Golden Reel Award: Best Sound Editing in Television Series",
+                "recipients": [],
+                "won": false
+              }
+            ]
+          },
+          {
+            "episodeNumber": 3,
+            "episodeName": "Ways and Means",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Alex",
+                "lastName": "Graves"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Eli",
+                "lastName": "Attie",
+                "role": "story"
+              },
+              {
+                "firstName": "Gene",
+                "lastName": "Sperling",
+                "role": "story"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin",
+                "role": "teleplay"
+              }
+            ],
+            "dateAired": "10-24-2000",
+            "specialGuestStars": [
+              {
+                "firstName": "Oliver",
+                "lastName": "Platt",
+                "role": "Oliver Babish"
+              },
+              {
+                "firstName": "Ron",
+                "lastName": "Silver",
+                "role": "Bruno Gianelli"
+              },
+              {
+                "firstName": "Emily",
+                "lastName": "Procter",
+                "role": "Ainsley Hayes"
+              },
+            ],
+            "guestStars": [
+              {
+                "firstName": "Connie",
+                "lastName": "Britton",
+                "role": "Connie Tate"
+              },
+              {
+                "firstName": "Evan",
+                "lastName": "Handler",
+                "role": "Douglas Wegland"
+              },
+              {
+                "firstName": "Mark",
+                "lastName": "Feurstein",
+                "role": "Cliff Calley"
+              },
+              {
+                "firstName": "Miguel",
+                "lastName": "Sandoval",
+                "role": "Victor Campos"
+              },
+              {
+                "firstName": "NiCole",
+                "lastName": "Robinson",
+                "role": "Margaret Hooper"
+              },
+              {
+                "firstName": "Nicholas",
+                "lastName": "Pryor",
+                "role": "Special Prosecutor Clement Rollins"
+              },
+              {
+                "firstName": "Thom",
+                "lastName": "Barry",
+                "role": "Congressman Mark Richardson"
+              },
+              {
+                "firstName": "Edmund L.",
+                "lastName": "Shaff",
+                "role": "Secretary of the Interior Bill Horton"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Jana Lee",
+                "lastName": "Hamblin",
+                "role": "Reporter Bobbi"
+              },
+              {
+                "firstName": "Devika",
+                "lastName": "Parikh",
+                "role": "Bonnie"
+              },
+              {
+                "firstName": "Melissa",
+                "lastName": "Fitzgerald",
+                "role": "Carol Fitzpatrick"
+              },
+              {
+                "firstName": "Kim",
+                "lastName": "Webster",
+                "role": "Ginger"
+              },
+              {
+                "firstName": "Timothy",
+                "lastName": "Davis-Reed",
+                "role": "Mark O'Donnell"
+              },
+              {
+                "firstName": "Charles",
+                "lastName": "Noland",
+                "role": "Reporter Steve"
+              },
+              {
+                "firstName": "Max",
+                "lastName": "Chalawsky",
+                "role": "Kinis"
+              },
+              {
+                "firstName": "Felix",
+                "lastName": "Solis",
+                "role": "Hammaker"
+              },
+              {
+                "firstName": "Andrea C.",
+                "lastName": "Robinson",
+                "role": "Barbara"
+              },
+              {
+                "firstName": "Thomas J.",
+                "lastName": "McCarthy",
+                "role": "Senator Thomas",
+                "billedAs": "Tom McCarthy"
+              },
+              {
+                "firstName": "Lewis",
+                "lastName": "Grenville",
+                "role": "Reporter"
+              },
+              {
+                "firstName": "Stephanie",
+                "lastName": "Cantu",
+                "role": "Reporter"
+              },
+              {
+                "firstName": "Nadia",
+                "lastName": "Axakowsky",
+                "role": "Reporter"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              }
+            ],
+            "producers": [
+              {
+                "firstName": "Neal",
+                "lastName": "Ahern Jr."
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Alex",
+                "lastName": "Graves"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Christopher",
+                "lastName": "Misiano"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "Patrick",
+                "lastName": "Ward"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "The Special Prosecutor (Nicholas Pryor) sets his probe in motion, but the White House is unhappy with him: he's not nasty enough. \"We need a different enemy,\" C.J. tells Oliver Babish (Oliver Platt). Meanwhile, Sam and Bruno are concerned about the loyalty of a powerful California labor leader; Toby and Josh are preoccupied with a congressional battle over the estate tax; the governor of Wyoming is mad about a forest fire; and Ainsley fixes up Donna with a guy who happens to be a Republican.",
+            "expandedSummary": "The special prosecutor begins his probe and the White House feels his objective, unbiased approach may hurt them politically. C.J. begins maneuvering within the press to persuade Congress to start their own investigation, believing it will be easier to win a battle with bloodthirsty Republicans. Meanwhile, Sam and Bruno are concerned about a powerful California labor leader and Toby and Josh are preoccupied with a congressional battle over the estate tax. Donna meets a young Republican lawyer.",
+            "expandedPlot": "The subpoenas are handed out in the hearing over Bartlet's concealment of his multiple sclerosis. The special prosecutor, Clement Rollins (Pryor), appears to be both fair and responsible, but C.J. believes the White House will be better served in the public eye if investigated by a partisan agent. She therefore decides—against the strong objections of White House counsel Oliver Babish—to present Rollins as an ally of the administration, thereby forcing Congress to take control over the investigation. Meanwhile Donna, unwittingly, becomes entangled in potential problems over the hearings. Ainsley Hayes sets her up on a date with the Republican House Government Oversight Committee counsel Clifford Calley, but even though the date seems to go well, Calley then leaves her quite abruptly in the middle of the street. Donna later realizes the reason: his congressional committee is the one that will be in charge of the investigation, and a relationship between the two could constitute a conflict of interest.\nWhile Sam and Bruno are concerned about the loyalty of a powerful California union official (Sandoval), Toby and Josh are preparing for a meeting with the congressional opposition to re-negotiate the estate tax—or the \"death tax\" as the Republicans have labeled it—but are then surprised by a last-minute cancellation. It soon becomes clear that the Republicans are planning to repeal the estate tax altogether, and might have the votes to do so. An attempt to win over the black caucus, led by Congressman Mark Richardson (Barry), fails. At a loss over what to do, an initiative comes from unexpected quarters. The previously over-cautious political strategist, Doug Wegland, suggests the president responds by doing something he has never done before: veto the bill.\nPresident Bartlet himself is confronted with a forest fire in Wyoming, and decides to follow the counter-intuitive advice of his experts, and let the fire burn. Meanwhile, he is still struggling to deal with the death of his perennial personal secretary, Mrs. Landingham. Charlie insists that it is necessary to appoint a new person to fill the position, but the president is reluctant to take the step. As the episode ends, Bartlet is searching for a good pen, and realizes the full depth of his dependence on Mrs. Landingham.",
+            "awards": []
+          },
+          {
+            "episodeNumber": 4,
+            "episodeName": "On the Day Before",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Christopher",
+                "lastName": "Misiano"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Paul",
+                "lastName": "Redford",
+                "role": "story"
+              },
+              {
+                "firstName": "Nanda",
+                "lastName": "Chitre",
+                "role": "story"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin",
+                "role": "teleplay"
+              }
+            ],
+            "dateAired": "10-31-2000",
+            "specialGuestStars": [],
+            "guestStars": [
+              {
+                "firstName": "Anna",
+                "lastName": "Deavere Smith",
+                "role": "Nancy McNally"
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Tighe",
+                "role": "Gov. Jack Buckland, D-IN"
+              },
+              {
+                "firstName": "H. Richard",
+                "lastName": "Greene",
+                "role": "Rep. Robert Royce, R-PA"
+              },
+              {
+                "firstName": "Cliff",
+                "lastName": "DeYoung",
+                "role": "Rep. Kimball, D-TN"
+              },
+              {
+                "firstName": "NiCole",
+                "lastName": "Robinson",
+                "role": "Margaret Hooper"
+              },
+              {
+                "firstName": "Scott Michael",
+                "lastName": "Campbell",
+                "role": "Donald Dolan"
+              },
+              {
+                "firstName": "John F.",
+                "lastName": "O'Donohue",
+                "role": "Mr. Koveleskie"
+              },
+              {
+                "firstName": "Mary",
+                "lastName": "Mara",
+                "role": "Entertainment Reporter Sherri Wexler"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Kopache",
+                "role": "Assistant Secretary of State Bob Slatterly"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Stockard",
+                "lastName": "Channing",
+                "role": "Abbey Bartlet"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Kim",
+                "lastName": "Webster",
+                "role": "Ginger"
+              },
+              {
+                "firstName": "Devika",
+                "lastName": "Parikh",
+                "role": "Bonnie"
+              },
+              {
+                "firstName": "Melissa",
+                "lastName": "Fitzgerald",
+                "role": "Carol Fitzpatrick"
+              },
+
+              {
+                "firstName": "William",
+                "lastName": "Duffy",
+                "role": "Larry"
+              },
+              {
+                "firstName": "Peter James",
+                "lastName": "Smith",
+                "role": "Ed"
+              },
+              {
+                "firstName": "Timothy",
+                "lastName": "Davis-Reed",
+                "role": "Mark O'Donnell"
+              },
+              {
+                "firstName": "Kris",
+                "lastName": "Murphy",
+                "role": "Katie Witt"
+              },
+              {
+                "firstName": "Jeff",
+                "lastName": "Mooring",
+                "role": "Reporter Phil"
+              },
+              {
+                "firstName": "Steven J.",
+                "lastName": "Levy",
+                "role": "Jonathan"
+              },
+              {
+                "firstName": "Rick",
+                "lastName": "Cramer",
+                "role": "Officer"
+              },
+              {
+                "firstName": "Ralph",
+                "lastName": "Meyering Jr.",
+                "role": "Civilian"
+              },
+              {
+                "firstName": "Ana",
+                "lastName": "Mercedes",
+                "role": "Sally, Military Aide in Sit Room"
+              },
+              {
+                "firstName": "Elizabeth",
+                "lastName": "Taheri",
+                "role": "Pam"
+              },
+              {
+                "firstName": "Randy",
+                "lastName": "Brooks",
+                "role": "Arthur Leeds",
+                "billedAs": "Randolph Leeds"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Saxton",
+                "role": "Alan"
+              },
+              {
+                "firstName": "Andrew",
+                "lastName": "DePalma",
+                "role": "Marine---Technical Aide (uncredited)"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              }
+            ],
+            "producers": [
+              {
+                "firstName": "Neal",
+                "lastName": "Ahern Jr."
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Alex",
+                "lastName": "Graves"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Christopher",
+                "lastName": "Misiano"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "Patrick",
+                "lastName": "Ward"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "On a busy night at the White House, the President vetoes the estate-tax repeal and staffers scramble to counter the GOP's override threat. Meanwhile, Josh stares down a Democratic governor (Kevin Tighe) who's threatening to challenge Bartlet in the primaries; Charlie has been offered legal immunity in the MS matter and everyone urges him to take it; and C.J. has a difficult time with a local-TV reporter (Mary Mara) who isn't nearly as smart as she is aggressive.",
+            "expandedSummary": "The President vetoes his first bill—the repeal of the estate tax—and staffers scramble to counter the GOP's override threat, first having to deal with an opportunistic Democratic Congressman before Sam has an idea that leads them to a surprising ally. An international crisis erupts when Palestinian terrorists kill two Americans in Israel. Meanwhile, Charlie has been offered legal immunity and everyone urges him to take it, and a reporter mocks C.J. but is later humiliated by C.J. in response.",
+            "expandedPlot": "The White House is hosting a dinner for Nobel laureates but the staff keep getting interrupted by various domestic and international crises. As President Bartlet vetoes the bill to repeal the estate tax, it appears that the Republican Party might have the two-thirds majority needed to override the veto. A representative of the dissenting Democrats is brought in to negotiate a deal with Toby and Sam. Meanwhile, Josh is meeting with Indiana Governor Jack Buckland (Tighe) to talk him out of a potential primary challenge against Bartlet. Leo is at this point getting exasperated by their own partisans taking advantage of the administration's weakness due to the impending hearings over the president's concealment of his multiple sclerosis. He tells Josh to \"throw an elbow\" and threaten to leak the fact that Buckland tried to blackmail the president. In the end, Josh ends up striking a compromise, while it is Toby and Sam who \"throw an elbow\" by turning down Democratic Congressman Kimble and offering the same deal to moderate Republican Congressman Robert Royce instead.\nA Palestinian suicide bomber in Jerusalem causes the death of several Israelis, as well as two American nationals. National Security Advisor Nancy McNally and Leo consider the potential implications of possible retributions and are relieved when the Palestinians respond to American pressure by arresting a leader of a militant group. As Leo points out, however, the solution is likely to be only temporary.\nOther staff members have their own problems to deal with. Charlie has been offered immunity from the special prosecutors and Leo, among others, suggests he take it. Charlie, however, insists that he will \"stay with [his] team.\" Donna, who in the previous episode (\"Ways and Means\") went on a date with a Republican congressional aide involved in the investigation, comes clean with Josh. It turns out she met him not only once, but also on another occasion after she had found out what position he held, and Josh is not pleased. C.J. is provoked by an inexperienced lifestyle reporter, Sherri Wexler (Mara), trying to put her in a bad light and responds by embarrassing her in front of a full press room.",
+            "awards": [
+              {
+                "awardName": "Emmy: Outstanding Supporting Actress in a Drama Series",
+                "recipients": [
+                  {
+                    "firstName": "Janel",
+                    "lastName": "Moloney"
+                  }
+                ],
+                "won": false
+              }
+            ]
+          },
+          {
+            "episodeNumber": 6,
+            "episodeName": "War Crimes",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Alex",
+                "lastName": "Graves"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Allison",
+                "lastName": "Abner",
+                "role": "story"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin",
+                "role": "teleplay"
+              }
+            ],
+            "dateAired": "11-07-2000",
+            "specialGuestStars": [
+              {
+                "firstName": "Michael",
+                "lastName": "O'Keefe",
+                "role": "Will Sawyer"
+              },
+              {
+                "firstName": "Gerald",
+                "lastName": "McRaney",
+                "role": "USAF Gen. Alan Adamie"
+              },
+              {
+                "firstName": "Tim",
+                "lastName": "Matheson",
+                "role": "Vice President John Hoynes"
+              },
+            ],
+            "guestStars": [
+              {
+                "firstName": "Mark",
+                "lastName": "Feuerstein",
+                "role": "Clifford Calley"
+              },
+              {
+                "firstName": "Renée",
+                "lastName": "Estevez",
+                "role": "Nancy"
+              },
+              {
+                "firstName": "Bob",
+                "lastName": "Glouberman",
+                "role": "Terry Beckwith"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Stockard",
+                "lastName": "Channing",
+                "role": "Abbey Bartlet"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Melissa",
+                "lastName": "Fitzgerald",
+                "role": "Carol Fitzpatrick"
+              },
+              {
+                "firstName": "Kim",
+                "lastName": "Webster",
+                "role": "Ginger"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Seeger",
+                "role": "Chris"
+              },
+              {
+                "firstName": "Charles",
+                "lastName": "Noland",
+                "role": "Reporter Steve"
+              },
+              {
+                "firstName": "Randy",
+                "lastName": "Brooks",
+                "role": "Arthur Leeds",
+                "billedAs": "Randolph Brooks"
+              },
+              {
+                "firstName": "Chris",
+                "lastName": "Ufland",
+                "role": "Attorney Benton"
+              },
+              {
+                "firstName": "Mary",
+                "lastName": "Ostrow",
+                "role": "Sharon"
+              },
+              {
+                "firstName": "Keith",
+                "lastName": "Pillow",
+                "role": "Klesko"
+              },
+              {
+                "firstName": "Marcy",
+                "lastName": "Goldman",
+                "role": "Reporter"
+              },
+              {
+                "firstName": "Isabel",
+                "lastName": "Landof",
+                "role": "Press Woman (uncredited)"
+              }
+            ],
+            "producers": [
+              {
+                "firstName": "Neal",
+                "lastName": "Ahern Jr."
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Alex",
+                "lastName": "Graves"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Christopher",
+                "lastName": "Misiano"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "Patrick",
+                "lastName": "Ward"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "Donna gives a deposition to the House committee probing the MS matter. Questioning her: Cliff (Mark Feuerstein), the Republican counsel she's been seeing. Meanwhile, the President and the Vice President (Tim Matheson) clash over gun control; Leo and an Air Force general clash over an international war-crimes court; a hotshot foreign correspondent who's new to the White House beat gets hold of an embarrassing quote of Toby's; and Sam becomes intrigued by a proposal to abolish the penny.",
+            "expandedSummary": "The President asks a reluctant Vice President (Tim Matheson) to speak at an anti-gun rally in Texas after a church shooting, while Donna goes before a Congressional committee investigating Bartlet's lack of disclosure and lies under oath when her new boyfriend asks her a personal question. Toby deals with a leaked quote that is embarrassing to the President, while C.J. meets up with a gutsy reporter and Sam ponders a plan to eliminate the penny.",
+            "expandedPlot": null,
+            "awards": []
+          },
+          {
+            "episodeNumber": 7,
+            "episodeName": "Gone Quiet",
+            "twoPart": false,
+            "creator": [
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              }
+            ],
+            "director": [
+              {
+                "firstName": "Jon",
+                "lastName": "Hutman"
+              }
+            ],
+            "writer": [
+              {
+                "firstName": "Julia",
+                "lastName": "Dahl",
+                "role": "story"
+              },
+              {
+                "firstName": "Laura",
+                "lastName": "Glasser",
+                "role": "story"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin",
+                "role": "teleplay"
+              }
+            ],
+            "dateAired": "11-14-2000",
+            "specialGuestStars": [
+              {
+                "firstName": "Oliver",
+                "lastName": "Platt",
+                "role": "Oliver Babish"
+              },
+              {
+                "firstName": "Ron",
+                "lastName": "Silver",
+                "role": "Bruno Gianelli"
+              },
+              {
+                "firstName": "Hal",
+                "lastName": "Holbrook",
+                "role": "Asst. Secretary of State Albie Duncan"
+              },
+            ],
+            "guestStars": [
+              {
+                "firstName": "Anna",
+                "lastName": "Deavere Smith",
+                "role": "Nancy McNally"
+              },
+              {
+                "firstName": "Connie",
+                "lastName": "Britton",
+                "role": "Connie Tate"
+              },
+              {
+                "firstName": "Valerie",
+                "lastName": "Mahaffey",
+                "role": "Tawny Cryer, Appropriations Committee"
+              },
+              {
+                "firstName": "Gregory Alan",
+                "lastName": "Williams",
+                "role": "Robbie Mosley",
+                "billedAs": "Gregalan Williams"
+              }
+            ],
+            "castRegular": [
+              {
+                "firstName": "Rob",
+                "lastName": "Lowe",
+                "role": "Sam Seaborn"
+              },
+              {
+                "firstName": "Stockard",
+                "lastName": "Channing",
+                "role": "Abbey Bartlet"
+              },
+              {
+                "firstName": "Dulé",
+                "lastName": "Hill",
+                "role": "Charlie Young"
+              },
+              {
+                "firstName": "Allison",
+                "lastName": "Janney",
+                "role": "C.J. Cregg"
+              },
+              {
+                "firstName": "Janel",
+                "lastName": "Moloney",
+                "role": "Donna Moss"
+              },
+              {
+                "firstName": "Richard",
+                "lastName": "Schiff",
+                "role": "Toby Ziegler"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Spencer",
+                "role": "Leo McGarry"
+              },
+              {
+                "firstName": "Bradley",
+                "lastName": "Whitford",
+                "role": "Josh Lyman"
+              },
+              {
+                "firstName": "Martin",
+                "lastName": "Sheen",
+                "role": "President Josiah Bartlet"
+              }
+            ],
+            "remainingCast": [
+              {
+                "firstName": "Kim",
+                "lastName": "Webster",
+                "role": "Ginger"
+              },
+              {
+                "firstName": "Devika",
+                "lastName": "Parikh",
+                "role": "Bonnie"
+              },
+              {
+                "firstName": "Melissa",
+                "lastName": "Fitzgerald",
+                "role": "Carol Fitzpatrick"
+              },
+              {
+                "firstName": "Dennis",
+                "lastName": "Cockrum",
+                "role": "Officer"
+              },
+              {
+                "firstName": "Rick",
+                "lastName": "Cramer",
+                "role": "Officer"
+              },
+              {
+                "firstName": "Anthony",
+                "lastName": "DiCocco",
+                "role": "Secret Service Agent (uncredited)"
+              },
+              {
+                "firstName": "Sean Allen",
+                "lastName": "Jones",
+                "role": "Uniformed Secret Service Agent (uncredited)"
+              }
+            ],
+            "producers": [
+              {
+                "firstName": "Neal",
+                "lastName": "Ahern Jr."
+              },
+              {
+                "firstName": "Kevin",
+                "lastName": "Falls"
+              },
+              {
+                "firstName": "Alex",
+                "lastName": "Graves"
+              },
+              {
+                "firstName": "Kristin",
+                "lastName": "Harms"
+              },
+              {
+                "firstName": "Michael",
+                "lastName": "Hissrich"
+              },
+              {
+                "firstName": "Mindy",
+                "lastName": "Kanaskie"
+              },
+              {
+                "firstName": "Christopher",
+                "lastName": "Misiano"
+              },
+              {
+                "firstName": "Paul",
+                "lastName": "Redford"
+              },
+              {
+                "firstName": "Thomas",
+                "lastName": "Schalmme"
+              },
+              {
+                "firstName": "Aaron",
+                "lastName": "Sorkin"
+              },
+              {
+                "firstName": "Patrick",
+                "lastName": "Ward"
+              },
+              {
+                "firstName": "John",
+                "lastName": "Wells"
+              },
+              {
+                "firstName": "Llewellyn",
+                "lastName": "Wells"
+              }
+            ],
+            "music": [
+              {
+                "firstName": "W.G. Snuffy",
+                "lastName": "Walden"
+              }
+            ],
+            "briefSummary": "A U.S. submarine has \"gone quiet\" off North Korea, putting the President into crisis mode. And he's not pleased to have to deal with a cantankerous State Department veteran (Hal Holbrook). Meanwhile, Sam and Bruno (Ron Silver) clash over soft money; Babish (Oliver Platt) questions Abbey about past malpractice suits against her; and C.J. is delighted with a majority leader's response to a TV reporter's question about his Presidential ambitions.",
+            "expandedSummary": "An American spy submarine suddenly goes silent in hostile waters outside North Korea, and Bartlet must decide whether he should notify the enemy or attempt a risky, secret rescue. Meanwhile, a top Republican contender cannot articulate why he wants to be President, but C.J. is disappointed with President Bartlet's own answer to that question. Toby clashes with a Congresswoman over funding the National Endowment for the Arts. This episode guest stars Hal Holbrook as Deputy Secretary of State Albie Duncan, marking the first of several appearances for his character.",
+            "expandedPlot": null,
+            "awards": []
+          },
         ]
       }
     ]
