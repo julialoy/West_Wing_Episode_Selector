@@ -7,8 +7,8 @@ The West Wing Episode Selector is a React app that allows you to retrieve inform
 The app pulls information from a JSON database, which contains information compiled from various sources including IMDB, Wikipedia, TV Guide, and the episodes themselves.
 
 ## Libraries
-[Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/introduction/) for styling
-[ZeroMQ](https://zeromq.org/) for sockets
+* [Bootstrap 5](https://getbootstrap.com/docs/5.2/getting-started/introduction/) for styling
+* [ZeroMQ](https://zeromq.org/) for sockets
 
 
 ## Screenshots
